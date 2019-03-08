@@ -6,7 +6,7 @@
 ## Scope and Sequence
 
 | Unit | Overview|
-|:-------|:-------:|------|
+|:-------|:------|
 | [**1: Welcome**](units/unit1) |  In this unit, coders will get to know their company, their instructors and their classmates.    Coders will review important routines, procedures and documents. Coders will complete a beginning of year challenge to review HTML, CSS, and Javascript from the Foundations course.|
 | [**2: FanPage**](units/unit2) |  In this unit, coders will build a fan page for their favorite book, TV show, artist, movie etc. Coders will use CSS to make sure that their pages are designed creatively.|
 | [**3: RockPaperScissors**](units/unit3) |In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, Scissors game will take user choice, generate a computer choice, and display the winner to the screen. To create this project, coders will use jQuery to take user input and display data, the Math Library to generate a random choice, and conditionals to determine the winner.|
