@@ -6,7 +6,7 @@ Pacing Calendar (Year 1)
 ===================
 |  Sept | Oct | Nov | Dec | Jan | Feb | March | April | May |
 |:--------|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| <sub> [**0:Welcome**](units/unit0) <br> 1: HTML <br> **Survey**</sub>| <sub> 2:CSS  <br>3:HTML  <br> 4:Positioning </sub> |<sub> 5:jQuery <br>6:Cloud9 <br>7:Github </sub>| <sub>6:Cloud9  <br>7:Github </sub> |<sub> 8:JavaScript  <br>9:Types, Conditionals </sub>| <sub> 9: Types, Conditionals <br>10:Functions </sub> | <sub>11:Arrays <br>12:Animations </sub>| <sub>12:Animations <br>13:Looping</sub>|<sub> 14:Capstone <br> Survey </sub>|
+| <sub> [**0:Welcome**](units/unit1) <br> 1: HTML <br> **Survey**</sub>| <sub> 2:CSS  <br>3:HTML  <br> 4:Positioning </sub> |<sub> 5:jQuery <br>6:Cloud9 <br>7:Github </sub>| <sub>6:Cloud9  <br>7:Github </sub> |<sub> 8:JavaScript  <br>9:Types, Conditionals </sub>| <sub> 9: Types, Conditionals <br>10:Functions </sub> | <sub>11:Arrays <br>12:Animations </sub>| <sub>12:Animations <br>13:Looping</sub>|<sub> 14:Capstone <br> Survey </sub>|
 -->
 ## Pacing Calendar
 ![Imgur](FND_Pacing_Calendar_1819.png)
@@ -16,7 +16,7 @@ Pacing Calendar (Year 1)
 | Unit | Overview | Objectives <br> *Coders will...*|
 |:--------|:---:|:---------|
 | [**1: Routines**](units/unit1) |<ul> <li> Identify two things they are excited to learn at CodeNation and be able to name their classmates and teachers.</li> <li> Navigate the Popcode coding environment. </li> <li> Navigate Google Classroom, create a Github account to share their work, and complete the intake form. </li> </ul>|
-| [**2: HTML**](units/unit2) <ul> <li> Use correct syntax to create an an opening and a closing HTML tag.</li> <li> Use correct syntax to create simple HTML elements. </li> <li> Nest HTML elements including ordered and unordered lists. </li></li> <li> Create HTML elements with attributes to add links to their pages. </li><li> Create HTML elements with attributes to add images to their pages. </li></ul>|
+| [**2: HTML**](units/unit2) |<ul> <li> Use correct syntax to create an an opening and a closing HTML tag.</li> <li> Use correct syntax to create simple HTML elements. </li> <li> Nest HTML elements including ordered and unordered lists. </li></li> <li> Create HTML elements with attributes to add links to their pages. </li><li> Create HTML elements with attributes to add images to their pages. </li></ul>|
 | [**3: CSS**](units/unit3) |<ul> <li> Select an HTML element and change its style using CSS.</li> <li> Style a page using CSS properties and values. </li> <li> Describe the difference between 'head' and 'body' by linking Google Fonts to style their page. </li> <li> Use CSS properties and values, and Google Fonts to style a professional website for a friend. </li> </ul>|
 | [**4: HTML Attributes**](units/unit4) |<ul> <li> Use class selectors to style specific groups of elements on the page.</li> <li> Use class attributes to organize related groups of elements to be styled with CSS. </li> <li> Use class selectors and class attributes to style an awards website. </li></ul> |
 | [**5: Flexbox, Wireframing, Positioning, Layout**](units/unit5) |<ul> <li> Use box model (padding, border, and margin) to manipulate the spacing of elements on a page. </li> <li> Organize their HTML using DIVs. </li><li> Use flexbox to align elements on a webpage. </li> <li> Use flexbox to create columns on a webpage. </li><li> Use their wireframing, box model, and flexbox skills to complete a website for a VIP client. </li></ul>|
