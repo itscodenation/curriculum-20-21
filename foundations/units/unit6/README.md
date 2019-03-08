@@ -11,7 +11,7 @@
 |[**3**](https://docs.google.com/presentation/d/1K88zeTj9N0IRMf5URESoO9ycrEjH7QXJtFInUVmvnh0/edit)|45| Use input.val( ) to retrieve a value from an input field. |
 |[**Project 1**](https://docs.google.com/presentation/d/1cusYVTmtEv81g1CRkbVkroAghlbfdJN6iCqLUDAaBMQ/edit)|45x2| Use variables and operators to create a website that predicts the future. | 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a>  </h3>
 
 ----
 
