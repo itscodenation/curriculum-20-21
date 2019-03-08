@@ -6,7 +6,7 @@
 |[**3**](https://docs.google.com/presentation/d/1BAqdRqQ2QF29reT9I1AEOHlNm91YaDg7ee10KDIiY28/edit)|45| Navigate Google Classroom, create a Github account to share their work, and complete the intake form.
 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a>  </h3>
 
 ----
 
