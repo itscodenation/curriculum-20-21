@@ -30,7 +30,7 @@ Pacing Calendar (Year 1)
 | [**Extension Unit: Animations and Collisions**](units/extensions) | 4 lessons <br> 1 project  |<ul> <li> Use the keydown() event handler and .which to make an action occur on the web page when a specific key is pressed.		</li><li>Use the .offset property to move elements on the screen.	</li><li>Use the .css() action to move an element on the page when a key is pressed.	</li><li>Write a function that checks when two elements collide.	</li><li>Build a game that uses animations and tests collisions.</li></ul>|
 ----
 
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a></h3>
 
 ----
 ## School Teacher Resources
