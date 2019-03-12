@@ -14,7 +14,7 @@ Pacing Calendar (Year 1)
 ## Scope and Sequence
 
 | Unit | Overview | Objectives <br> *Coders will...*|
-|:--------|:---:|:---------|
+|:--------|:---|:---------|
 | [**1: Routines**](units/unit1) |<ul> <li> Identify two things they are excited to learn at CodeNation and be able to name their classmates and teachers.</li> <li> Navigate the Popcode coding environment. </li> <li> Navigate Google Classroom, create a Github account to share their work, and complete the intake form. </li> </ul>|
 | [**2: HTML**](units/unit2) |<ul> <li> Use correct syntax to create an an opening and a closing HTML tag.</li> <li> Use correct syntax to create simple HTML elements. </li> <li> Nest HTML elements including ordered and unordered lists. </li></li> <li> Create HTML elements with attributes to add links to their pages. </li><li> Create HTML elements with attributes to add images to their pages. </li></ul>|
 | [**3: CSS**](units/unit3) |<ul> <li> Select an HTML element and change its style using CSS.</li> <li> Style a page using CSS properties and values. </li> <li> Describe the difference between 'head' and 'body' by linking Google Fonts to style their page. </li> <li> Use CSS properties and values, and Google Fonts to style a professional website for a friend. </li> </ul>|
