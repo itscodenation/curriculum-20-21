@@ -1,6 +1,6 @@
 # Unit 1: HTML
-|Lesson|Minutes|Objectives <br> *Coders will ...*|
-|:-------:|:-------:|:-------|
+|Lesson|Minutes|Objectives<br> *Coders will ...* |External Resources |
+|:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1iKh3Rg0uAVKg_g81fbAvkgjok9AZ_mH8TKibdUU8EB0/edit)|45| Use correct syntax to create an an opening and a closing HTML tag for simple HTML elements. 
 |[**2**](https://docs.google.com/presentation/d/1_VAGhNfZhzMtk8HWzAzcjdwuIjb7dGP5X4ILeb1dOQQ/edit)|45|Use correct syntax to create simple HTML elements. 
 |[**3**](https://docs.google.com/presentation/d/1C7X7_FbyEUvW1eEzzyzbVy5vbgFetUETtBwQAFTWLYU/edit)|45|Nest HTML elements including ordered and unordered lists.|
