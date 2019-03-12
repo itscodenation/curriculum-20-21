@@ -1,7 +1,7 @@
 # Unit 2: CSS
 
-|Lesson|Minutes|Objectives <br> *Coders will ...*|
-|:-------:|:-------:|:-------|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources|
+|:-------:|:-------:|:-------:|:-------|
 |[**1**](https://docs.google.com/presentation/d/1S4oqbp3mKk2e9P_T04Qq0KzMGmNDbKps4Ssa7AFHvqI/edit)|45| Select an HTML element and change its style using CSS. |
 |[**2**](https://docs.google.com/presentation/d/1KkRqKT11M1yuars4OivffA4zuBLqlMw8AXAABLKdj8s/edit)|45| Style a page using CSS properties and values. | 
 |[**3**](https://docs.google.com/presentation/d/1GLL9RXQumrAZ9IRlzwPesSDtV1mwghD0L1aV5Wn7NCY/edit)|45| Describe the difference between 'head' and 'body' by linking Google Fonts to style their page. |
