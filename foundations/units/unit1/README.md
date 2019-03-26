@@ -1,4 +1,4 @@
-# Unit 1: Routines
+# Unit 1: Introduction to Code Nation
 |Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources|
 |:-------:|:-------:|:-------:|:-------:|
 |[**1**](https://docs.google.com/presentation/d/1kMPeFzEKDjG_EmWg4rQvqpi0pKBSe3r8CmzcvdX-l-c/edit)|45| Describe how coding is used in the world|
