@@ -1,4 +1,4 @@
-# Unit 6: Variables
+# Unit 7: Introduction to JavaScript (Variables, Value Types, Operators, input.val)
 
 
 
