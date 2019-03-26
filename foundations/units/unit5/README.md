@@ -1,5 +1,4 @@
-# Unit 6: jQuery
-
+# Unit 5: Layout and positioning
 
 
 
@@ -8,17 +7,15 @@
 
 |Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources
 |:-------:|:-------:|:-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1xKW9ImX2ToninRVQP83Y2vxs23D2DnLKZXVEruDzt3o/edit)|45| Use jQuery to select, show, and hide HTML elements
-|[**2**](https://docs.google.com/presentation/d/1AiT3rUaZg4NzjB-ycSKTtibEeTr1qYYIr2WF34jJlGo/edit)|45| Use jQuery actions to make HTML elements toggle, slide, and fade
-|[**Project 1**](https://docs.google.com/presentation/d/1U6smFf2TMbsaBg97hhKpbSjj_qQ17jJdw-JpEQ6fmbE/edit)|45|Use jQuery actions to build an interactive website
-|[**3**](https://docs.google.com/presentation/d/1o9cAvFNZjtrVyw3jH4rc9IcUarf3vhbMhu4eBhvxQpY/edit)|45| Use jQuery actions that take one or more arguments, including .text(), and .css(), when a button is clicked
-|[**4**](https://docs.google.com/presentation/d/1zREQP-Li8ju7R-193k0MnO4KK7254bATC2-UjsBHpIE/edit)|45| Write event handlers that allow the page to respond when a user interacts with it
-|[**Project 2**](https://docs.google.com/presentation/d/14RBOuEtU0N8f14tvEnnxxzJ4Ae8W5tx6ABMrEklnxEY/edit)|45x2| Use jQuery actions to build an interactive website
+|[**1**](https://docs.google.com/presentation/d/1Shq5aEZuO6h84hl3vCLVhakKWuqw_P4JQfM9-6cbUPw/edit)|45|using divs to organize elements on a page|
+|[**2**](https://docs.google.com/presentation/d/1CZIqQUrr-882DNND-iTzsxyMCf_su6p_fmzlrnaEpIY/edit)|45| Use box model (padding, border, and margin) to manipulate the spacing of elements on a page.|
+|[**3**](https://docs.google.com/presentation/d/12jVwApEuXnR1u0t2NT4QGW4Dz4RugV7SdutoORjEFcI/edit)|45| Use flexbox to align elements on a webpage.|
+|[**Project 1**](https://docs.google.com/presentation/d/1q10HrM8V7Ryo5ALF8GEtpS8MF-5Y2kxWbJUL5suaTwg/edit)|45x2|Create a webpage on someone who inspires you|
 
 
 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a>  </h3>
 
 ----
 

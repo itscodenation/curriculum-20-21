@@ -1,16 +1,16 @@
-# Unit 4:
+# Unit 3:
 
 ## Overview
-In this unit, coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. To create this project, coders will create arrays, use a forEach loop to iterate over the arrays, and display data to the screen using jQuery. They will use .push to add new songs to their playlist.
+In this unit, coders will use JavaScript functions to build a BuzzFeed style webapp that will determine at which tech company the user will placed.
 
 ## Sessions 
-|Session Slides|*Coders will be able to ...*|External Resources|
-|:-------:|-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1WupmzRQHYzYtF3B4EcJIeqb5Ilrhp6E9MpKZsJnXs2g/edit#slide=id.g3cff548657_0_281)|
-|[**2**](https://docs.google.com/presentation/d/1EMB4SovvCYBmAL5yr0d7arj_j-jtGiNA3lePOxsb3_Q/edit#slide=id.g3c8073e551_0_86)|
-|[**3**](https://docs.google.com/presentation/d/1XaQQsNWUHcdIZu0eig97x5NhD3M9Gkwa-9YKcDyaEVk/edit#slide=id.g3a1982a82e_0_0)| 
+|Session Slides|*Coders will be able to ...*|Homework|External Resources|
+|:-------:|-------|:-------|:-------:|
+|[**1**](https://docs.google.com/presentation/d/1n0j0Ezx-mq0fUNABUuYJu35grqDPT9-Kzv2QeAPJ2zE/edit#slide=id.g1e220fa94a_0_30)| 
+|[**2**](https://docs.google.com/presentation/d/1Z56JbP338_taPs2l4cyrb80VrCUGk-b7wlH-peYNFXk/edit#slide=id.g3c687d700b_1_0)| 
+|[**3**](https://docs.google.com/presentation/d/1rIeSlNv3rpzFrcH7fq1LkkEvf1HztFMUJPQyhi0TaNc/edit#slide=id.g3c4f276926_0_99)| 
 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a>  </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a></h3>
 
 ----

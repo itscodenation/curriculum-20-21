@@ -1,16 +1,16 @@
-# Unit 5:
+# Unit 4:
 
 ## Overview
-**Note: Unlike all other units, this unit is meant to only cover 2 class sessions.**
-<br>In this unit, coders are introduced to objects through Popcode exercises, and a Jeopardy game. They are introduced to the unit project on Day 2. After the introduction, they will spend time planning their project and then spend the rest of their time completing it. 
+In this unit, coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. To create this project, coders will create arrays, use a forEach loop to iterate over the arrays, and display data to the screen using jQuery. They will use .push to add new songs to their playlist.
 
 ## Sessions 
-|Session Slides|*Coders will be able to ...*|External Resources
+|Session Slides|*Coders will be able to ...*|External Resources|
 |:-------:|-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1SXTbriRX3TsAuoY3rufQ7jehLgV9p4b29vlIfltko7Y/edit#slide=id.g3afd79e3e3_0_182)|
-|[**2**](https://docs.google.com/presentation/d/13iK91JwZ-be-LOzmeY5ODTwvqIMXah6MUBmwDzE5N9o/edit#slide=id.g3791f51075_2_72)| 
+|[**1**](https://docs.google.com/presentation/d/1WupmzRQHYzYtF3B4EcJIeqb5Ilrhp6E9MpKZsJnXs2g/edit#slide=id.g3cff548657_0_281)|
+|[**2**](https://docs.google.com/presentation/d/1EMB4SovvCYBmAL5yr0d7arj_j-jtGiNA3lePOxsb3_Q/edit#slide=id.g3c8073e551_0_86)|
+|[**3**](https://docs.google.com/presentation/d/1XaQQsNWUHcdIZu0eig97x5NhD3M9Gkwa-9YKcDyaEVk/edit#slide=id.g3a1982a82e_0_0)| 
 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a>  </h3>
 
 ----

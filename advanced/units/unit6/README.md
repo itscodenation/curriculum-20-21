@@ -1,14 +1,14 @@
-# Unit 6:
+# Unit 5:
 
 ## Overview
-In this unit, coders will create a Giphy App. The Giphy App will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, coders will learn the anatomy of an API Request, use AJAX to make a simple GET request, handle a JSON response object, use jQuery to display a gif.
+**Note: Unlike all other units, this unit is meant to only cover 2 class sessions.**
+<br>In this unit, coders are introduced to objects through Popcode exercises, and a Jeopardy game. They are introduced to the unit project on Day 2. After the introduction, they will spend time planning their project and then spend the rest of their time completing it. 
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|External Resources
 |:-------:|-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1rrXonWrP2G7ZfI5Gp5hD8Lro9C3yX6R5breLTRQtEwQ/edit#slide=id.g3c7eef5493_0_86)|
-|[**2**](https://docs.google.com/presentation/d/1buMnLF2Oy8FFV52C8Z1sd-dx__rScLbLT8RXEOFuYZc/edit#slide=id.g3cf9ffdcd9_1_0)| 
-|[**3**](https://docs.google.com/presentation/d/1MouviNGwiN8KCjo306p6cQfgY6uND0MVVLxMXlgEp0A/edit#slide=id.g3a6039558f_0_0)|
+|[**1**](https://docs.google.com/presentation/d/1SXTbriRX3TsAuoY3rufQ7jehLgV9p4b29vlIfltko7Y/edit#slide=id.g3afd79e3e3_0_182)|
+|[**2**](https://docs.google.com/presentation/d/13iK91JwZ-be-LOzmeY5ODTwvqIMXah6MUBmwDzE5N9o/edit#slide=id.g3791f51075_2_72)| 
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> </h3>
