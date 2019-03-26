@@ -1,22 +1,15 @@
-# Unit 5: Layout and positioning
+# Unit 4: Advanced CSS
 
 
-
-
-
-
-|Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources
+|Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources|
 |:-------:|:-------:|:-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1Shq5aEZuO6h84hl3vCLVhakKWuqw_P4JQfM9-6cbUPw/edit)|45|using divs to organize elements on a page|
-|[**2**](https://docs.google.com/presentation/d/1CZIqQUrr-882DNND-iTzsxyMCf_su6p_fmzlrnaEpIY/edit)|45| Use box model (padding, border, and margin) to manipulate the spacing of elements on a page.|
-|[**3**](https://docs.google.com/presentation/d/12jVwApEuXnR1u0t2NT4QGW4Dz4RugV7SdutoORjEFcI/edit)|45| Use flexbox to align elements on a webpage.|
-|[**Project 1**](https://docs.google.com/presentation/d/1q10HrM8V7Ryo5ALF8GEtpS8MF-5Y2kxWbJUL5suaTwg/edit)|45x2|Create a webpage on someone who inspires you|
-
-
+|[**1**](https://docs.google.com/presentation/d/1qv38U61zq9jR2GGyQ_0F0SBEimNWxpipwPnk1wdYkzc/edit)|45|Use class attributes and selectors to style specific groups of elements on the page|
+|[**2**](https://docs.google.com/presentation/d/1uopT5DHn2y9WFXGzXtB1mvdUNQaIBOWW2uxe1WNh9UQ/edit)|45|Use multiple class attributes to apply speficic styling to elements on the page |
+|[**Project 1**](https://docs.google.com/presentation/d/19UviwTvErCr7RLr2K41hjtagvfpUi84BxbMncyGWY30/edit)|45x2|Use class selectors and class attributes to style an awards website. (Group Project)|
+|[**Review Lesson**](https://docs.google.com/presentation/d/19UviwTvErCr7RLr2K41hjtagvfpUi84BxbMncyGWY30/edit)|45|Review all objectives covered from units 1-4|
 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a>  </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> </h3>
 
 ----
-
 
