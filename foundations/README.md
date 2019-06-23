@@ -16,18 +16,18 @@ Pacing Calendar (Year 1)
 | Unit | Overview | Objectives <br> *Coders will...*|
 |:--------|:---|:---------|
 | [**1: Intro to Code Nation**](units/unit1) || Describe how coding is used in the world
-| [**2: HTML**](units/unit2) ||
-| [**3: CSS**](units/unit3) ||
-| [**4: HTML Attributes**](units/unit4) ||
-| [**5: Flexbox, Wireframing, Positioning, Layout**](units/unit5) ||
-| [**6: jQuery**](units/unit6) ||
-| [**Mid-Year Review Unit**](units/midyear) |  |
-| [**7: Variables, Value Types, Operators, input.val**](units/unit7) ||
-| [**8: Conditionals**](units/unit8) | |
-| [**9: Arrays and forEach Loops**](units/unit9) ||
-| [**10: Functions**](units/unit10) | |
-| [**End-of-Year Wrap Up**](units/EOY_Review_Unit) | |
-| [**Extension Unit: Animations and Collisions**](units/extensions) | |
+| [**2: HTML**](units/unit2) ||Use correct syntax to create simple HTML elements.
+| [**3: CSS**](units/unit3) ||Select an HTML element and change its style using a single CSS property and value.
+| [**4: Advanced CSS**](units/unit4) ||Use class attributes and selectors to style specific groups of elements on the page
+| [**5: Layout and Positioning**](units/unit5) ||Use box model (padding, border, and margin) to manipulate the spacing of elements on a page.
+| [**6: jQuery**](units/unit6) ||Use jQuery to select, show, and hide, and manipulate HTML elements
+| [**Hackathon 1**](units/midyear) |  |Understand how to export projects to a sharable online porfolio <br> Develop skills to properly prepare for a presentation <br> Complete the Mid-Survey and review HTML, CSS, and jQuery concepts
+| [**7:Introduction to Javascript**](units/unit7) ||define a program language and identify ways that javascript can be used in a website
+| [**8: Conditionals (Group Project) **](units/unit8) || create a website that uses conditional statements to control program flow
+| [**9: Arrays and For Of**](units/unit9) || create a website that uses loops to iterate over arrays
+| [**10: Capstone (Group Project)**](units/unit10) | |
+| [**EOY Unit**](units/EOY_Review_Unit) | |Jeopardy/Review Acvitvity <br> EOY Challenge
+
 ----
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a></h3>
