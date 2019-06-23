@@ -15,7 +15,7 @@ Pacing Calendar (Year 1)
 
 | Unit | Overview | Objectives <br> *Coders will...*|
 |:--------|:---|:---------|
-| [**1: Routines**](units/unit1) ||
+| [**1: Routines**](units/unit1) |eh el kalam|
 | [**2: HTML**](units/unit2) ||
 | [**3: CSS**](units/unit3) ||
 | [**4: HTML Attributes**](units/unit4) ||
