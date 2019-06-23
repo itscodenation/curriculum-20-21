@@ -24,8 +24,9 @@ Pacing Calendar (Year 1)
 | [**Hackathon 1**](units/midyear) |  |Understand how to export projects to a sharable online porfolio <br> Develop skills to properly prepare for a presentation <br> Complete the Mid-Survey and review HTML, CSS, and jQuery concepts
 | [**7:Introduction to Javascript**](units/unit7) ||define a program language and identify ways that javascript can be used in a website
 | [**8: Conditionals (Group Project) **](units/unit8) || create a website that uses conditional statements to control program flow
+| [**7:Introduction to Javascript**](units/unit7) ||define a program language and identify ways that javascript can be used in a website
 | [**9: Arrays and For Of**](units/unit9) || create a website that uses loops to iterate over arrays
-| [**10: Capstone (Group Project)**](units/unit10) | |
+| [**10: Capstone (Group Project)**](units/unit10) | |Collaborate with team members on a shared project
 | [**EOY Unit**](units/EOY_Review_Unit) | |Jeopardy/Review Acvitvity <br> EOY Challenge
 
 ----
