@@ -15,7 +15,7 @@ Pacing Calendar (Year 1)
 
 | Unit | Overview | Objectives <br> *Coders will...*|
 |:--------|:---|:---------|
-| [**1: Routines**](units/unit1) || left aligned
+| [**1: Intro to Code Nation**](units/unit1) || Describe how coding is used in the world
 | [**2: HTML**](units/unit2) ||
 | [**3: CSS**](units/unit3) ||
 | [**4: HTML Attributes**](units/unit4) ||
