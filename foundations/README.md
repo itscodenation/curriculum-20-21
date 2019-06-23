@@ -1,4 +1,4 @@
-Foundations Curriculum, 19-20
+Intro to Web Development Curriculum, 19-20
 ===================
 
 <!--
@@ -35,7 +35,7 @@ Pacing Calendar (Year 1)
 ----
 ## School Teacher Resources
 
-* [CodeNation Teacher Liaison Curriculum Guide 18-19](https://docs.google.com/document/d/1IisBQOGlbDj1QBxcGtKrL-E5gZXhoUiumWlvkNHz8yg/edit): To be used in the CodeNation course that are co-taught with a teacher from the school.
+* [CodeNation Teacher Liaison Curriculum Guide 19-20](https://docs.google.com/document/d/1IisBQOGlbDj1QBxcGtKrL-E5gZXhoUiumWlvkNHz8yg/edit): To be used in the CodeNation course that are co-taught with a teacher from the school.
 
 ----
 
