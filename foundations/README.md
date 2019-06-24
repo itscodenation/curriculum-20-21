@@ -15,7 +15,7 @@ Pacing Calendar (Year 1)
 
 | Unit | Overview | Objectives <br> *Coders will...*|
 |:--------|:---|:---------|
-| [**1: Introduction to Code Nation**](units/unit1) || Describe how coding is used in the world
+| [**1: Introduction to Code Nation**](units/unit1) || *Describe how coding is used in the world
 | [**2: HTML**](units/unit2) ||Use correct syntax to create simple HTML elements.
 | [**3: CSS**](units/unit3) ||Select an HTML element and change its style using a single CSS property and value.
 | [**4: Advanced CSS**](units/unit4) ||Use class attributes and selectors to style specific groups of elements on the page
