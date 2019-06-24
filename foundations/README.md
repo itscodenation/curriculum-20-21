@@ -15,17 +15,17 @@ Pacing Calendar (Year 1)
 
 | Unit | Overview | Objectives <br> *Coders will...*|
 |:--------|:---|:---------|
-| [**1: Intro to Code Nation**](units/unit1) || Describe how coding is used in the world
+| [**1: Introduction to Code Nation**](units/unit1) || Describe how coding is used in the world
 | [**2: HTML**](units/unit2) ||Use correct syntax to create simple HTML elements.
 | [**3: CSS**](units/unit3) ||Select an HTML element and change its style using a single CSS property and value.
 | [**4: Advanced CSS**](units/unit4) ||Use class attributes and selectors to style specific groups of elements on the page
 | [**5: Layout and Positioning**](units/unit5) ||Use box model (padding, border, and margin) to manipulate the spacing of elements on a page.
 | [**6: jQuery**](units/unit6) ||Use jQuery to select, show, and hide, and manipulate HTML elements
-| [**Hackathon 1**](units/midyear) |  |Understand how to export projects to a sharable online porfolio <br> Develop skills to properly prepare for a presentation <br> Complete the Mid-Survey and review HTML, CSS, and jQuery concepts
-| [**7:Introduction to Javascript**](units/unit7) ||define a program language and identify ways that javascript can be used in a website
-| [**8: Conditionals (Group Project)**](units/unit7) ||define a program language and identify ways that javascript can be used in a website
-| [**9: Arrays and For Of**](units/unit9) || create a website that uses loops to iterate over arrays
-| [**10: Capstone (Group Project)**](units/unit10) | |Collaborate with team members on a shared project
+| [**Mid-Year Unit: Hackathon**](units/midyear) |  |Understand how to export projects to a sharable online porfolio <br> Develop skills to properly prepare for a presentation <br> Complete the Mid-Survey and review HTML, CSS, and jQuery concepts
+| [**7: Introduction to Javascript**](units/unit7) ||define a program language and identify ways that javascript can be used in a website
+| [**8: Conditionals**](units/unit7) ||define a program language and identify ways that javascript can be used in a website
+| [**9: Arrays and Loops**](units/unit9) || create a website that uses loops to iterate over arrays
+| [**10: Capstone Project**](units/unit10) | |Collaborate with team members on a shared project
 | [**EOY Unit**](units/EOY_Review_Unit) | |Jeopardy/Review Acvitvity <br> EOY Challenge
 
 ----
