@@ -1,4 +1,4 @@
-Intro to Web Development Curriculum, 19-20
+Introduction to Web Development Curriculum, 19-20
 ===================
 
 <!--
