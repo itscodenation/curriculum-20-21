@@ -1,7 +1,7 @@
 # Advanced Curriculum, 18-19
 
 ## Pacing Calendar
-![Test Image 1](advanced/Pacing Calendar.png)
+![Test Image 1](https://github.com/itscodenation/curriculum19-20/tree/master/advanced)
 
 ## Scope and Sequence
 
