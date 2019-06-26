@@ -6,10 +6,13 @@
 
 | Unit  | Sessions | Overview|
 |:-------|:-------:|------|
-| [**Welcome**](units/unit0) | 1 | In this unit, coders will get to know their company, their instructors and their classmates.    Coders will review important routines, procedures and documents. Coders will complete a beginning of year challenge to review HTML, CSS, and Javascript from the Foundations and Advanced courses.|
-| [**Project 1**](units/unit1) | 9 |In this unit, coders will work in pairs to build a project using HTML, CSS, JS and Firebase. Student will build and MVP for a project that takes in a user input, stores it in a database, then retrieves the data and displays it on the screen. This project is intended to highlight some important aspects of goal setting and project management. The project will culminate in a final presentation.|
-| [**Project 2**](units/unit2)| 9 | In this unit, coders will work in pairs to build a project using HTML, CSS, React, and Firebase. Coders will follow the specifications to build out the front-end for the Kahoot style question game that displays a question and the possible answers, allows a user to choose answer and determine whether the are right or wrong. This project is intended to highlight some important aspects of goal setting and project management. The project will culminate in a final presentation.|
-| **Project 3**| 9 | This unit is currently under construction. Please check back soon for updates.|
+| [**1: Routines and Procedures, Office Tour**](units/unit0) | 1 | <ul><li>Describe Studio class routines and procedures Review core Javascript skills</li>|
+| [**2: JS (ES6), React (Individual)**](units/unit1) | 8 |<ul><li>Implement and navigate the following data structures: arrays, objects, and trees</li><li>Implement recursive functions</li><li>Explain (3) and implement (1) sorting algorithm</li><li>Create and call react components update the render function to render HTML</li><li>Use properties to pass down data into components and render things differently</li><li>Update the state of a component using set state and render the change, call  function on a user's click using an arrow function<li> <li>Conditionally style component based on state</li><li>Complete, prepare for and practice a project presentation </li> </ul>|
+| [**Presentation Day**](units/unit2)|  | |
+| **3: React (Groups of 2-3)**| 8 | <ul><li>Set up a project from a repository</li><li>Implement recursive functions</li><li>Create an object using ES6 syntax</li><li>Use multiple components to create complex layout</li><li>Pass down properties through components</li><li>Create and update application state<li> <li>Create component to react to a users input and update application state </li><li>Project work day</li> <li>Prepare for and practice a project presentation </li> </ul>|
+| [**Presentation Day**](units/unit2)|  | |
+| [**4: Final Project React and Firebase Studio Game App (Groups of 2-3)**](units/unit2)| 8 |       <ul><li>Set up a project from a repository</li><li>Read session metadata from Firebase</li><li>Write data to firebase and listen for changes to data from firebase</li><li>Design and implement a data model</li><li>Handle data changes in React <li> <li>Refactor a React component</li><li>Add styles to a React component</li> <li>Prepare for and practice a project presentation </li> </ul>
+|
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> </h3>
