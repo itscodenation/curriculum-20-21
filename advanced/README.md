@@ -1,4 +1,4 @@
-# Advanced Curriculum, 18-19
+# Coding Fellowship I, 19-20
 
 ## Pacing Calendar
 ![alt tag](https://github.com/itscodenation/curriculum19-20/blob/master/advanced/Pacing%20Calendar.png)
