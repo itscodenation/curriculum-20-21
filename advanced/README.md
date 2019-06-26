@@ -1,7 +1,7 @@
 # Advanced Curriculum, 18-19
 
 ## Pacing Calendar
-![Test Image 1](Pacing Calendar.png)
+![Test Image 1](advanced/Pacing Calendar.png)
 
 ## Scope and Sequence
 
