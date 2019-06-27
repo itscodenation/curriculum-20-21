@@ -1,7 +1,7 @@
 # Coding Fellowship II, 19-20
 
 ## Pacing Guide
-![Imgur](studio-pacing-18-19.png)
+![alt tag](https://github.com/itscodenation/curriculum19-20/blob/master/studio/PacingCalendar2.png)
 ## Scope and Sequence
 
 | Unit  | Sessions | Overview|
