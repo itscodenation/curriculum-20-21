@@ -12,15 +12,41 @@
 | [**3: React**](units/unit2)| 8 | <ul><li>Set up a project from a repository</li><li>Implement recursive functions</li><li>Create an object using ES6 syntax</li><li>Use multiple components to create complex layout</li><li>Pass down properties through components</li><li>Create and update application state</li> <li>Create component to react to a users input and update application state </li><li>Project work day</li> <li>Prepare for and practice a project presentation </li></ul>|
 | [**Presentation Day**](units/unit2)|  | |
 | [**4: Final Project React and Firebase Studio Game App (Groups of 2-3)**](units/unit2)| 8 | <ul><li>Set up a project from a repository</li><li>Read session metadata from Firebase</li><li>Write data to firebase and listen for changes to data from firebase</li><li>Design and implement a data model</li><li>Handle data changes in React </li> <li>Refactor a React component</li><li>Add styles to a React component</li> <li>Prepare for and practice a project presentation </li> </ul>
-|
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> </h3>
 
 ----
+
+**Curriculum content contributed by**: 
+Allie Jones, 
+Andrew Ingraham, 
+Elizabeth Dowd, 
+Gilbert Ghang, 
+Jenna Van Conett, 
+Matthew A. Brown, 
+Matthew Gerrior, 
+Mark Griffith, 
+Ramata Williams, 
+Sayri Suarez, 
+Simon Lesser, 
+Sophat Sam, 
+Vanessa Dean, 
+Zainab Ebrahimi, 
+Bridget Bailey, 
+Elizabeth Dielentheis, 
+Gracie Elqura, 
+Kevin Dou, 
+Marina Bichoffe, 
+Pratik Pramanik, 
+Razzi Abuissa, 
+Roan Kattouw, 
+Traci Lopez, 
+Xavi Ramirez
 <br>
 <p> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
-As of 10/31/2018, ScriptEd has changed its name to Code Nation.  Please bear with us as we make the transition!
+----
+<br>
   
 For more information about Code Nation, please visit us at <a href="https://www.codenation.org">codenation.org</a>.
 <br>
