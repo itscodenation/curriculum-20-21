@@ -39,29 +39,29 @@ Pacing Calendar (Year 1)
 ----
 
 **Curriculum content contributed by**: 
-Allie Jones
-Andrew Ingraham
-Elizabeth Dowd
-Gilbert Ghang
-Jenna Van Conett
-Matthew A. Brown
-Matthew Gerrior
-Mark Griffith
-Ramata Williams
-Sayri Suarez
-Simon Lesser
-Sophat Sam
-Vanessa Dean
-Zainab Ebrahimi
-Bridget Bailey
-Elizabeth Dielentheis
-Gracie Elqura
-Kevin Dou
-Marina Bichoffe 
-Pratik Pramanik
-Razzi Abuissa
-Roan Kattouw
-Traci Lopez
+Allie Jones, 
+Andrew Ingraham, 
+Elizabeth Dowd, 
+Gilbert Ghang, 
+Jenna Van Conett, 
+Matthew A. Brown, 
+Matthew Gerrior, 
+Mark Griffith, 
+Ramata Williams, 
+Sayri Suarez, 
+Simon Lesser, 
+Sophat Sam, 
+Vanessa Dean, 
+Zainab Ebrahimi, 
+Bridget Bailey, 
+Elizabeth Dielentheis, 
+Gracie Elqura, 
+Kevin Dou, 
+Marina Bichoffe, 
+Pratik Pramanik, 
+Razzi Abuissa, 
+Roan Kattouw, 
+Traci Lopez, 
 Xavi Ramirez
 <br>
 <p> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
