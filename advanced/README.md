@@ -52,7 +52,7 @@ Traci Lopez,
 Xavi Ramirez
 
 <br>
-  
+<p> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
 For more information about Code Nation, please visit us at <a href="https://www.codenation.org">codenation.org</a>.
 <br>
 <br>
