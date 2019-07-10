@@ -2,7 +2,7 @@
 
 |Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources|
 |:-------:|:-------:|:-------|:-------|
-|[**1**](https://drive.google.com/open?id=1Nqap_mrYqTi1rdecA9TDjkK3Lm6_tNszpp8dXVJB_RA)|45| Select an HTML element and change its style using a single CSS property and value.|[Mosaic Project](https://docs.google.com/presentation/d/1_xTJ4jcZnGVUyMeirbVZajGi1c0pl9ba8N-P7khLzsw/edit?usp=sharing)|
+|[**1**](https://drive.google.com/open?id=1Nqap_mrYqTi1rdecA9TDjkK3Lm6_tNszpp8dXVJB_RA)|45| Select an HTML element and change its style using a single CSS property and value.|N/A|
 |[**2**](https://drive.google.com/open?id=1IceCITQ-oCl-o8xQ_qwIKAqS93zHskbNNyP9bVe5jE0)|45|Select an HTML element and change its style using multiple CSS properties and values  |[Class Selectors Practice](https://docs.google.com/presentation/d/11yorBq3hAdjdpYTHZKrJ3v48AnP_ZgW4Xx6x9kPwTP4/edit?usp=sharing)|
 |[**3**](https://drive.google.com/open?id=1gOYPKXDdzmBELugH1NdoWfmddpYfUiBZ4BUcXbYajDA)|45|Describe the difference between head and body by linking Google Fonts to style their page. |[Google Fonts](https://github.com/ScriptEdcurriculum/curriculum2016/blob/master/year1/units/unit2/google-fonts-activity.md)|
 |[**Project 1**](https://drive.google.com/open?id=1s1_TD-u6oZMmQBrqBn5u9h5GlszePIZGB3SaiyuVE_Y)|45x2|Use CSS properties and values, and Google Fonts to style a profile page.|N/A|
