@@ -2,7 +2,7 @@
 
 |Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources
 |:-------:|:-------:|:-------|:-------:|
-|[**1**]()|45| Complete an end-of-year survey to reflect on their Code Nation experience and share feedback and demonstrate thier technical mastery through and End of year assessment|N/A|
+|[**1**]()|45| <ul><li>Complete an end-of-year survey to reflect on their Code Nation experience and share feedback</li> <li>Demonstrate thier technical mastery through and End of year assessment</li></ul>|N/A|
 |[**2**]()|45|Celebrate their technical mastery and showcase exemplar projects.|N/A|
 
 ----
