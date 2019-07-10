@@ -1,11 +1,13 @@
-# Mid-Year Review Unit 
+# Mid-Year Unit: Hackathon
 
 |Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources|
 |:-------:|:-------:|:-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1MKEa1syKJR3Q2bxeZlMkY7aEWKgD5kR8qKtS4wlejxs/edit#slide=id.g1d0118cf2a_0_406)|45| |
-|[**2**](https://docs.google.com/presentation/d/19o4kDNFIBuZ9FvIYVrzWUezzL1CQnTf456UN01HhIGI/edit#slide=id.g469d7f88be_0_6)|45| |
-|[**3**](https://docs.google.com/presentation/d/19o4kDNFIBuZ9FvIYVrzWUezzL1CQnTf456UN01HhIGI/edit#slide=id.g46c73300a0_0_22)|45| |
-|[**4**](https://docs.google.com/presentation/d/19o4kDNFIBuZ9FvIYVrzWUezzL1CQnTf456UN01HhIGI/edit#slide=id.g46c73300a0_0_54)|45| |
+|[**1**]()|45|Enagage in collabortive brainstorming, use a wireframe to plan a webpage.|N/A|
+|[**2**]()|45|Collaborate with team members on a shared project|N/A|
+|[**3**]()|45|Collaborate with team memmbers on a shared project |N/A|
+|[**4**]()|45|Understand how to export projects to a sharable online porfolio|N/A|
+|[**5**]()|45|Develop skills to properly prepare for a presentation|N/A|
+|[**6**]()|45|Complete the Mid-Survey and review HTML, CSS, and jQuery concepts|N/A|
 
 
 ----
