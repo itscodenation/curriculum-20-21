@@ -3,7 +3,7 @@
 
 |Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources|
 |:-------:|:-------:|:-------|:-------:|
-|[**1**](https://drive.google.com/open?id=1-US76ABs-gUjPDo9dWUcge7zWMXpBMp8gnpGopC7BKI)|45|Use class attributes and selectors to style specific groups of elements on the page|
+|[**1**](https://drive.google.com/open?id=1-US76ABs-gUjPDo9dWUcge7zWMXpBMp8gnpGopC7BKI)|45|Use class attributes and selectors to style specific groups of elements on the page|[Mosaic Project](https://docs.google.com/presentation/d/1_xTJ4jcZnGVUyMeirbVZajGi1c0pl9ba8N-P7khLzsw/edit?usp=sharing)|
 |[**2**](https://drive.google.com/open?id=1JqjW2-qmNnyT-Pdzr2aP6dEt7wx9lBD1oL-Ng6VbNf0)|45|Use multiple class attributes to apply speficic styling to elements on the page |
 |[**Project 1**](https://drive.google.com/open?id=16VHPGRxxy0Jidyq9WejHzZQW2xMLhjNPlbwuCjaE1tk)|45x2|Use class selectors and class attributes to style an awards website. (Group Project)|
 |[**Review Lesson**](https://drive.google.com/open?id=1JbmJyfQa09PgdJUP6xgPU6fQs5pwDZVA2Exf2og5sHY)|45|Review all objectives covered from units 1-4|
