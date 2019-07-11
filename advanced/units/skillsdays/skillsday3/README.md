@@ -1,4 +1,4 @@
-# Skills Day 3:LinkedIn and Whiteboarding
+# Skills Day 3: LinkedIn and Whiteboarding
 
 ## Overview
 On Professional Skills days, coders will demonstrate their technical and professional skills progress, update their professional resources, and participate in team building activities. This is a great opportunity to invite other people from your company to see what students have been working on and help guide them as they develop their skills.
