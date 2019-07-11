@@ -1,4 +1,4 @@
-# Unit 6:Giphy Project
+# Unit 5: Giphy Project
 
 ## Overview
 In this unit, coders will create a Giphy App. The program will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, coders will learn the anatomy of a API Request, use AJAX to make a simple get request, handle a JSON response object, and use jQuery to display a gif image.Unit # Le
