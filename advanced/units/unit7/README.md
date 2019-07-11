@@ -1,4 +1,4 @@
-# Unit 6:
+# Unit 7: Intro to React: Jeopardy
 
 ## Overview
 In this unit, coders will create a Giphy App. The Giphy App will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, coders will learn the anatomy of an API Request, use AJAX to make a simple GET request, handle a JSON response object, use jQuery to display a gif.
