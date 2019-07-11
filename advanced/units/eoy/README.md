@@ -6,8 +6,8 @@ In this unit, coders will close out the year with a culminating HackerRank chall
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|External Resources
 |:-------:|-------|:-------:|
-|[**1**](https://drive.google.com/open?id=1BgREMx7DWZb8LqLD4VlZKwf4eOwuoa4CbKIYvhWVXOM)|
-|[**2**](https://drive.google.com/open?id=1jULo_oJsiAQRnbEHT_iPggy5JFwA9GunLgzQSsWeWSI)| 
+|[**1**]()|<ul><li>Complete their professional portfolios with projects that showcase their technical ability.</li><li>Demonstate their technical ability through a HackerRank assessment.</li></ul>||
+|[**2**]()|<ul><li>Communicate technical knowledge effectively to a non-technical audience</li></ul>|| 
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> </h3>
