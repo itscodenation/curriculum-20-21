@@ -1,5 +1,5 @@
 
-# Mid-Year Unit
+# Unit: Mid-Year Unit
 
 ## Overview
  In this unit, coders will be introduced to the HackerRank platform, review concepts taught until this point and take a HackerRank Challenge to demonstrate their current technical ability. Coders will also complete a mid-year survey during this session.
