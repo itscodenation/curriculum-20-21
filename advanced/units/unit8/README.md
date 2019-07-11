@@ -1,4 +1,4 @@
-# Unit 7:Clinet Project
+# Unit 7: Client Project
 
 ## Overview
  In this unit, coders will work in pairs to build a project for a client based on a given set of APIs. This is a culminating project that incorporates all of the skills that have been taught in the course and is intended to highlight some important aspects of goal setting and project management. 
