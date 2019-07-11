@@ -1,12 +1,13 @@
 # Skills Day 3:
 
 ## Overview
-On Professional Skills days, coders will demonstrate their technical and professional skills progress, update their portfolios, and participate in a team building activity. This is a great opportunity to invite other people from your company to see what students have been working on and help guide them through whiteboarding exercises.
+On Professional Skills days, coders will demonstrate their technical and professional skills progress, update their professional resources, and participate in team building activities. This is a great opportunity to invite other people from your company to see what students have been working on and help guide them as they develop their skills.
+
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
 |:-------:|-------|
-|[**1**](https://docs.google.com/presentation/d/1auwx4hRlqp-RsbH43PzygoC87YmEBsKiGD3oMwD6ZUY/edit#slide=id.g3748a0c7e9_0_0)| <li> Present a technical project. </li> <li> Complete a whiteboarding activity.</li> |
+|[**1**](https://drive.google.com/open?id=1nWz0c4s8r9X5JCnNXuemVAtFHJl_TCOUdhByWxNRLek)| <li> Develop and maintain a strong LinkedIn profile to highlight their experience and skills and build their network.</li> <li>Demonstrate independent problem solving skills and communicate computational thinking through whiteboarding activities.</li> <li> Complete a whiteboarding activity.</li>|[Skills Day Company Invite](https://docs.google.com/document/d/1VUSsZo98NEphSdwJNeo1IINm90TlFBRYzqQT8zvdhbU/edit#)<br>[Skills Day Info Sheet](https://docs.google.com/document/d/1NolKmKi15Wmbwrb2mOQHdvR2r2gqULiUvIebIZD7PBs/edit#)|
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> </h3>
