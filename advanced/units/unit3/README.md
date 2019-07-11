@@ -6,7 +6,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The game will tak
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|External Resources
 |:-------:|-------|:-------:|
-|[**1**]https://drive.google.com/open?id=1JdZRNE4y1aPOwdnG21Wx8S1eFIwoBy9U9d83YoSNsD0)|<ul><li>Use jQuery to create html elements and display them on the page</li><ul>|| 
+|[**1**](https://drive.google.com/open?id=1JdZRNE4y1aPOwdnG21Wx8S1eFIwoBy9U9d83YoSNsD0)|<ul><li>Use jQuery to create html elements and display them on the page</li><ul>|| 
 |[**2**](https://drive.google.com/open?id=1Q7HBeCbPQBypF-f93ExeFO82OWTvTgAalh-lPJ3Ktig)|<ul><li>Generate a random number using Math functions</li></ul>|| 
 |[**3**](https://drive.google.com/open?id=1ySVXf8US86J8HhyulyZq7JxjZUGGzbuZqaermqmQ9_A)|<ul><li>Write a compound conditional statement using && and ||</li></ul>|| 
 ----
