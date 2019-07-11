@@ -1,14 +1,14 @@
-# Unit 3:
+# Unit 3:Tic Tac toe
 
 ## Overview
-In this unit, coders will use JavaScript functions to build a BuzzFeed style webapp that will determine at which tech company the user will placed.
+In this unit, coders will create a Tic Tac Toe game. The users will alternate clicking buttons on the board which will change to an X or an O. When one user plays 3 in a row, the game will end and display a message to the winner. To create this project, coders will write and call multiple functions including ones with multiple parameters and conditional statements.
+
 
 ## Sessions 
-|Session Slides|*Coders will be able to ...*|Homework|External Resources|
+|Session Slides|*Coders will be able to ...*|External Resources|
 |:-------:|-------|:-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1n0j0Ezx-mq0fUNABUuYJu35grqDPT9-Kzv2QeAPJ2zE/edit#slide=id.g1e220fa94a_0_30)| 
-|[**2**](https://docs.google.com/presentation/d/1Z56JbP338_taPs2l4cyrb80VrCUGk-b7wlH-peYNFXk/edit#slide=id.g3c687d700b_1_0)| 
-|[**3**](https://docs.google.com/presentation/d/1rIeSlNv3rpzFrcH7fq1LkkEvf1HztFMUJPQyhi0TaNc/edit#slide=id.g3c4f276926_0_99)| 
+|[**1**](https://docs.google.com/presentation/d/1kp3K5fQiCCbZxqfNYTOYBTg2QBoFa1rvT8HsJT3Hzk8/edit#slide=id.g1e220fa94a_0_30)|*Create a function with multiple parameters and return a value| |
+|[**2**](https://docs.google.com/presentation/d/16WqdV9hNZlncCtnk_ASLCV0lGgpPWGpzqqqPaI2mRcc/edit#slide=id.g58becd5177_0_0)|*Understand the global and local scope as it relates to functions|| 
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a></h3>
