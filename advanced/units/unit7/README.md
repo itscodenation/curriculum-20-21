@@ -1,4 +1,4 @@
-# Unit 7: Intro to React: Jeopardy
+# Unit 6: Intro to React: Jeopardy
 
 ## Overview
 In this unit, coders will create a jeopardy game using react. To create this project, coders will use react to take render content, and react to user clicks.
