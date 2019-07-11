@@ -1,4 +1,4 @@
-# End of Year
+# Unit: End of Year
 
 ## Overview
 In this unit, coders will close out the year with a culminating HackerRank challenge, End-of-Year Student Survey and presentations of their Client Projects.
