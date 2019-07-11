@@ -1,6 +1,6 @@
-# Unit 0:
+# Unit 0: Dev Lab
 
-## Dev Lab Curriculum
+## Overview
 Code Nation's Summer Developer's Lab is a summer bridge program designed to give all students, who have recently completed the Code Nation Foundations course, the opportunity to reinforce front-end web development principles and learn practical professional skills in preparation for Code Nation's Advanced Course. 
 
 Developer's Lab Scholars will also benefit from building their peer and professional networks. The expectation is that all students who plan on participating in Code Nation's Advanced program will participate in the summer Developer's Lab.
