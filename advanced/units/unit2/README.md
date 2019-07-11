@@ -1,4 +1,4 @@
-# Unit 1:Introduction to Javascript
+# Unit 1: Introduction to Javascript
 
 ## Overview
 In this unit, coders will be learn the platforms and procedures of the fellowship program and review foundational Javascript concepts by building a Pig Latinizer application.
