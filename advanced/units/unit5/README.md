@@ -1,14 +1,15 @@
 # Unit 4:
 
 ## Overview
-In this unit, coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. To create this project, coders will create arrays, use a forEach loop to iterate over the arrays, and display data to the screen using jQuery. They will use .push to add new songs to their playlist.
+In this unit, coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. To create this project, coders will create and array of objects, use a forEach loop to iterate over the arrays, and display data to the screen. They will use .push to add new songs to their playlist. They will then refactor their code with objects.
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|External Resources|
 |:-------:|-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1WupmzRQHYzYtF3B4EcJIeqb5Ilrhp6E9MpKZsJnXs2g/edit#slide=id.g3cff548657_0_281)|
-|[**2**](https://docs.google.com/presentation/d/1EMB4SovvCYBmAL5yr0d7arj_j-jtGiNA3lePOxsb3_Q/edit#slide=id.g3c8073e551_0_86)|
-|[**3**](https://docs.google.com/presentation/d/1XaQQsNWUHcdIZu0eig97x5NhD3M9Gkwa-9YKcDyaEVk/edit#slide=id.g3a1982a82e_0_0)| 
+|[**1**](https://docs.google.com/presentation/d/1g_ql4mImbMm5bGUQ0DEsDBG8XEUquMz6_AR2IfPY4mI/edit#slide=id.g557d3cfcd8_0_209)|<ul><li>Create forEach loops in Javascript to iterate over an array<li></ul>||
+|[**2**](https://drive.google.com/open?id=16w2Ccxayv5ZFtuUY89_G_QoEIghi3D09jNMnEyl48Cg)|<ul><li>Utilize array methods</li></ul>||
+|[**3**](https://drive.google.com/open?id=1OiuILwAWguKwWo3ZnMCH-CW4pJObWswvG3wVyLmIj0E)|<ul><li><Creating, accessing data from and object</li></ul>||
+|[**4**](https://drive.google.com/open?id=1CVrx44battLmSPY7qPh8_lzBijrjZrhPVoAemoNTcN0)|<ul><li><Updating an object</li></ul>|| 
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a>  </h3>
