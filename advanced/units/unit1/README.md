@@ -10,8 +10,8 @@ The expectation is that each student who participates in the Developer's Lab lea
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|External Resources|
 |:-------:|-------|:-------:|
-|[**Professional Communication**](https://docs.google.com/presentation/d/1PtOzybYXtLYTwYU3Rj-nh6ep8t0kx8KVtlgAV0w7cAs/edit#slide=id.g21f4a1db3e_0_0)| <ul><li>CAppropriately communicate with a variety of audiences (formal and informal) using written and verbal methods.</li><li>Explain the importance of communicating with Program Managers and expectations for doing so.</li><li>Navigate Slack and effectively use it for appropriate informal communication in the workplace.</li>|
-
+|[**Professional Communication**](https://docs.google.com/presentation/d/1PtOzybYXtLYTwYU3Rj-nh6ep8t0kx8KVtlgAV0w7cAs/edit#slide=id.g21f4a1db3e_0_0)| <ul><li>Appropriately communicate with a variety of audiences (formal and informal) using written and verbal methods.</li><li>Explain the importance of communicating with Program Managers and expectations for doing so.</li><li>Navigate Slack and effectively use it for appropriate informal communication in the workplace.</li>||
+| [**Introduction to Repl.it*](https://docs.google.com/presentation/d/1gvKibg_C0qBHkMCpB24RvLQxj2tcTIcHZ1NEjqF75ZU/edit#slide=id.g21f4a1db3e_0_0)|<ul><li>Navigate Repl.it.</li><li>Set up and log into the Repl.it.</li><li>Update and preview an HTML File in Repl.it</li><li>Review foundational HTML and CSS concepts</li></ul>||
 
 
 ----
