@@ -7,8 +7,8 @@ In this unit, coders will create a Tic Tac Toe game. The users will alternate cl
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|External Resources|
 |:-------:|-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1kp3K5fQiCCbZxqfNYTOYBTg2QBoFa1rvT8HsJT3Hzk8/edit#slide=id.g1e220fa94a_0_30)|* Create a function with multiple parameters and return a value| |
-|[**2**](https://docs.google.com/presentation/d/16WqdV9hNZlncCtnk_ASLCV0lGgpPWGpzqqqPaI2mRcc/edit#slide=id.g58becd5177_0_0)|* Understand the global and local scope as it relates to functions|| 
+|[**1**](https://docs.google.com/presentation/d/1kp3K5fQiCCbZxqfNYTOYBTg2QBoFa1rvT8HsJT3Hzk8/edit#slide=id.g1e220fa94a_0_30)| *Create a function with multiple parameters and return a value| |
+|[**2**](https://docs.google.com/presentation/d/16WqdV9hNZlncCtnk_ASLCV0lGgpPWGpzqqqPaI2mRcc/edit#slide=id.g58becd5177_0_0)| * Understand the global and local scope as it relates to functions|| 
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a></h3>
