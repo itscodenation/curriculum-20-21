@@ -6,6 +6,6 @@
 |[**1**](https://docs.google.com/presentation/d/1AJEv5aRDvINIPo93EcPy35bXg98fC9ZzSDKflD2HLJ4/edit#slide=id.g1d0118cf2a_0_406)|45|Complete the Mid-Survey and review HTML, CSS, and jQuery concepts|
 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a>  </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a>  </h3>
 
 ----
