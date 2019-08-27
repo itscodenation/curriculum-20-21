@@ -26,7 +26,7 @@ Pacing Calendar (Year 1)
 | [**8: Conditionals**](units/unit8) |3 Lessons<br> 1 Project|  <ul><li>Create basic conditional statements.</li><li>Create conditional statements with multiple conditions using else-if.</li> <li>Identify, evaluate, and construct compound conditional statements</li><li>Create a website that uses conditional statements to control program flow</li></ul>
 | [**9: Arrays and Loops**](units/unit9) |3 Lessons<br>1 Project<br> 1 Review Lesson|<ul><li>Create an array and retrieve an array element using the index.</li><li>Create for of loops in JavaScript in order to iterate over an array.</li> <li>Add elements to an array by using .push() and get the number of elements in the array by using .length .</li> <li>Create a website that uses conditional statements to control program flow</li><li>Review all objectives covered from units 7-9</li></ul>
 | [**10: Capstone Project**](units/unit10) |5 Lessons |  <ul><li>Enagage in collabortive brainstorming, use a wireframe to plan a webpage.</li><li>Collaborate with team members on a shared project.</li><li>Understand how to export projects to a sharable online porfolio.</li><li>Develop skills to properly prepare for a presentation.</li></ul>
-| [**EOY Unit**](units/EOY_Review_Unit) |2 Lessons |<ul><li>Complete an end-of-year survey to reflect on their Code Nation experience and share feedback. Demonstrate thier technical mastery through and End of year assessment</li><li>Celebrate their technical mastery and showcase exemplar projects.</li></ul>
+| [**EOY Unit**](units/EOY_Review_Unit) |2 Lessons |<ul><li>Complete an end-of-year survey to reflect on their Code Nation experience and share feedback. Demonstrate their technical mastery through and End of year assessment</li><li>Celebrate their technical mastery and showcase exemplar projects.</li></ul>
 ----
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a></h3>
@@ -34,7 +34,7 @@ Pacing Calendar (Year 1)
 ----
 ## School Teacher Resources
 
-* [CodeNation Teacher Liaison Curriculum Guide 19-20](https://docs.google.com/document/d/1IisBQOGlbDj1QBxcGtKrL-E5gZXhoUiumWlvkNHz8yg/edit): To be used in the CodeNation course that are co-taught with a teacher from the school.
+* [CodeNation Teacher Liaison Curriculum Guide 19-20](https://docs.google.com/document/d/1IisBQOGlbDj1QBxcGtKrL-E5gZXhoUiumWlvkNHz8yg/edit): To be used in the Code Nation courses that are co-taught with a teacher from the school.
 
 ----
 
