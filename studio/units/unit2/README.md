@@ -6,14 +6,14 @@ In this unit, coders will build a family tree project using React. Coders will b
 ## Sessions 
 |Session Slides|*Coders will ...*|External Resources
 |:-------:|-------|:-------:|
-|[**1**](https://drive.google.com/open?id=14xgKg71PC-gIojaZNy5-BwrN-_G4pymGLheLhv8F1Fw)|<li>Implement and navigate the following data structures: arrays, objects, and trees</li>|N/A| 
-|[**2**](https://docs.google.com/presentation/d/1cP_uyQXvJ3t8mqJZbx2vPIg2SVbojLSPAWjsTzLzT84/edit)|<li>Implement recursive functions</li>|N/A|
-|[**3**](https://docs.google.com/presentation/d/1ttwZXR-4SQ9fTEdeOywrd58FGnMfpVd2ix3hOCL2Yk8/edit?usp=sharing)|
-|[**4**](https://docs.google.com/presentation/d/1cexLZdVkgut_ZS5y5dE6lSDxJhHsjI0MNFlsNBTT6jM/edit?usp=sharing)| 
-|[**5**](https://docs.google.com/presentation/d/1FsdgR7Jxhtr0GznfjPi0D21LXmzv2TOFjJ4qT3ZKaGo/edit?usp=sharing)| 
-|[**6**](https://docs.google.com/presentation/d/1Z3mM1G4_BApqUZmmRRKyZit7wV33ejRADKSvBCwNDHc/edit?usp=sharing)| 
-|[**7**](https://docs.google.com/presentation/d/1fDI8z040y_dtyCD3_NtDD9nQRcMpqkxYX1wg35Fj4W4/edit)| 
-|[**8**](https://docs.google.com/presentation/d/1COEplIXfVnRwJaeRtkA0zPuP45hhnh0iluTVK27UiWI/edit)| 
+|[**1**](https://drive.google.com/open?id=14xgKg71PC-gIojaZNy5-BwrN-_G4pymGLheLhv8F1Fw)|Implement and navigate the following data structures: arrays, objects, and trees|N/A| 
+|[**2**](https://docs.google.com/presentation/d/1cP_uyQXvJ3t8mqJZbx2vPIg2SVbojLSPAWjsTzLzT84/edit)|Implement recursive functions|N/A|
+|[**3**](https://docs.google.com/presentation/d/1uUB_qY_Qhl-0-4rRyJC-5a740hnrxcv1E9yIjF1p95s/edit#slide=id.g5fd9563d16_0_113)|Explain two and implement one sorting algorithm|N/A|
+|[**4**](https://docs.google.com/presentation/d/1MQQNm0dUMQ_gdtauZyAhN9K5R0S-kee26ly5YvzfELk/edit#slide=id.g5f1efa827f_0_225)|<li>Create and call react components</li> <li>Update the render function to render HTML</li>|N/A| 
+|[**5**](https://drive.google.com/open?id=1D3rCeIr8sSVSiHK1jSKA_79VwFmpaqe95IaJpGPU59o)|Use properties to pass down data into components and render things differently|N/A| 
+|[**6**](https://drive.google.com/open?id=1vEKOnDppMLKse3JDd4tBmbEVdAHN8PHYqoQwWhRpY9s)|<li>Update the state of a component using set state and render the change</li><li>Call a function on a user's click using an arrow function</li>|N/A| 
+|[**7**](https://drive.google.com/open?id=1Y27b_B9kXCnUaVQBVVHF-au6hNCONndLiQyhreaFf6s)|Conditionally style component based on state|N/A| 
+|[**8**](https://docs.google.com/presentation/d/1COEplIXfVnRwJaeRtkA0zPuP45hhnh0iluTVK27UiWI/edit#slide=id.g4690b36c34_0_129)|<li>Complete, prepare for and practice a project presentation</li><li>Demonstrate independent problem solving skills and communicate computational thinking through whiteboarding activities</li>|N/A| 
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a>  </h3>
