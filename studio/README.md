@@ -1,12 +1,11 @@
 # Coding Fellowship II, 19-20
-
 ## Pacing Guide
 ![alt tag](https://github.com/itscodenation/curriculum19-20/blob/master/studio/PacingCalendar2.png)
 ## Scope and Sequence
 
 | Unit  | Sessions | Overview|
 |:-------|:-------:|------|
-| [**1: Routines and Procedures, Office Tour**](units/unit0) | 1 | <ul><li>Describe Studio class routines and procedures Review core Javascript skills</li>|
+| [**1: Routines and Procedures, Office Tour**](units/unit1) | 1 | <ul><li>Describe Studio class routines and procedures Review core Javascript skills</li>|
 | [**2: JS (ES6), React (Individual)**](units/unit1) | 8 |<ul><li>Implement and navigate the following data structures: arrays, objects, and trees</li><li>Implement recursive functions</li><li>Explain (3) and implement (1) sorting algorithm</li><li>Create and call react components update the render function to render HTML</li><li>Use properties to pass down data into components and render things differently</li><li>Update the state of a component using set state and render the change, call  function on a user's click using an arrow function</li> <li>Conditionally style component based on state</li><li>Complete, prepare for and practice a project presentation </li> </ul>|
 | [**Presentation Day**](units/unit2)|  | |
 | [**3: React**](units/unit2)| 8 | <ul><li>Set up a project from a repository</li><li>Implement recursive functions</li><li>Create an object using ES6 syntax</li><li>Use multiple components to create complex layout</li><li>Pass down properties through components</li><li>Create and update application state</li> <li>Create component to react to a users input and update application state </li><li>Project work day</li> <li>Prepare for and practice a project presentation </li></ul>|
