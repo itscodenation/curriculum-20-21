@@ -24,7 +24,7 @@ Marcos Lara-Reinhold,
 Neera Thavornvanit,
 Cal Peyser,
 Joe Tessler,
-Sayri Suarez,
+Sayri Suarez
 <br>
 <p> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
 ----
