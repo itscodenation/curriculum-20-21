@@ -7,7 +7,7 @@ In this unit, coders will build a family tree project using React. Coders will b
 |Session Slides|*Coders will ...*|External Resources
 |:-------:|-------|:-------:|
 |[**1**](https://drive.google.com/open?id=14xgKg71PC-gIojaZNy5-BwrN-_G4pymGLheLhv8F1Fw)|<li>Implement and navigate the following data structures: arrays, objects, and trees</li>|N/A| 
-|[**2**](https://docs.google.com/presentation/d/1cP_uyQXvJ3t8mqJZbx2vPIg2SVbojLSPAWjsTzLzT84/edit)|Implement recursive functions|N/A|
+|[**2**](https://docs.google.com/presentation/d/1cP_uyQXvJ3t8mqJZbx2vPIg2SVbojLSPAWjsTzLzT84/edit)|<li>Implement recursive functions</li>|N/A|
 |[**3**](https://docs.google.com/presentation/d/1ttwZXR-4SQ9fTEdeOywrd58FGnMfpVd2ix3hOCL2Yk8/edit?usp=sharing)|
 |[**4**](https://docs.google.com/presentation/d/1cexLZdVkgut_ZS5y5dE6lSDxJhHsjI0MNFlsNBTT6jM/edit?usp=sharing)| 
 |[**5**](https://docs.google.com/presentation/d/1FsdgR7Jxhtr0GznfjPi0D21LXmzv2TOFjJ4qT3ZKaGo/edit?usp=sharing)| 
