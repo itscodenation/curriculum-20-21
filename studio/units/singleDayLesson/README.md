@@ -7,7 +7,7 @@ In this lesson, coders will demonstrate their technical and professional skills 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|External Resources
 |:-------:|:-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1KTlAu8XMnXGpMxoJtOlkd9qcem_3mOmxF2YeFSLLUFc/edit#slide=id.g418add0bf9_0_85)|<ul><li>Communicate their technical knowledge effectively to a technical audience.</li><li>Capture and maintain the audience's attention.</li></ul> |[N/A]<br>[N/A]|
+|[**1**](https://docs.google.com/presentation/d/1KTlAu8XMnXGpMxoJtOlkd9qcem_3mOmxF2YeFSLLUFc/edit#slide=id.g418add0bf9_0_85)|<ul><li>Communicate their technical knowledge effectively to a technical audience.</li><li>Capture and maintain the audience's attention.</li></ul> |[N/A]|
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> </h3>
