@@ -1,4 +1,4 @@
-# Unit 2
+# Unit 3
 
 ## Overview
 In this unit, coders will work in pairs to build a project using HTML, CSS, React, and Firebase. Coders wil follow the specifications to build out the front-end for the Kahoot style question game that displays a question and the possible answers, allows a user to choose answer and determine whether the are right or wrong. This project is intended to highlight some important aspects of goal setting and project management. The project will culminate in a final presentation.
