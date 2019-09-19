@@ -7,7 +7,7 @@ In this unit, coders will work in pairs to build a project using HTML, CSS, Reac
 |Session Slides|*Coders will ...*|External Resources|
 |:-------:|-------|:-------:|
 |[**1**]()|<ul><li>Set up a project from a repository</li></ul>|N/A|
-|[**2**]()|<ul><li><Create an object using ES6 syntax/li></ul> |N/A|
+|[**2**]()|<ul><li>Create an object using ES6 syntax</li></ul> |N/A|
 |[**3**]()|<ul><li>Use multiple components to create complex layout</li></ul>|N/A|
 |[**4**]()|<ul><li>Persist and read complex data from firebase</li></ul>|N/A|
 |[**5**]()| <ul><li>Pass down properties through components</li></ul>|N/A|
