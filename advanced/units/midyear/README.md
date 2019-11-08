@@ -6,7 +6,7 @@
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|External Resources
 |:-------:|-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1LoWDjn62d5nMJ1glplmRn27XTOq9yPxHJ22pPinqT5c/edit#slide=id.g36f3732b7b_0_1)|<ul><li>Demonstate their technical ability through a HackerRank assessment.</li></ul>||
+|[**1**](https://docs.google.com/presentation/d/1hA6AX_yoMYjmSN22Mny5tmdseRtvw6W1nLJGOj54GpQ/edit#slide=id.g36f3732b7b_0_1)|<ul><li>Demonstate their technical ability through a HackerRank assessment.</li></ul>||
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a>  </h3>
