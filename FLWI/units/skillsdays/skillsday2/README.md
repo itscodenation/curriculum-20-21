@@ -2,7 +2,7 @@
 
 ## Overview
 
-Professional Skills days are a time for students to build their professional skills and develop work products like their LinkedIn, resume and online professional portfolio. Volunteers should feel comfortable sharing their experiences and the tools they use in their professional lives. Families should be invited to this skills day. This professional skills day will focus on volunteers and guests sharing their journey and providing students with an opportunity to envision their own pathways, providing strategies to find jobs and opportunities and project presentations. This lesson is jam-packed. We recommend extending this class an additional half an hour and inviting parents to attend.
+This professional skills day will focus on volunteers and guests sharing their journey and providing students with an opportunity to envision their own pathways, providing strategies to find jobs and opportunities and project presentations. This lesson is jam-packed. We recommend extending this class an additional half an hour and inviting parents to attend.
 
 ## Sessions
 

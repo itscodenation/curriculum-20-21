@@ -2,7 +2,7 @@
 
 ## Overview
 
-Professional Skills days are a time for students to build their professional skills and develop work products like their LinkedIn, resume and online professional portfolio. Volunteers should feel comfortable sharing their experiences and the tools they use in their professional lives. The first part of this professional skills day will focus on building and maintaining relationships and the second half will be the final career panel.
+The first part of this professional skills day will focus on building and maintaining relationships and the second half will be the final career panel.
 
 ## Sessions
 
