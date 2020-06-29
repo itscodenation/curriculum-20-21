@@ -1,14 +1,23 @@
-# Skills Day 2: Resume, Portfolio, and Presentations
+# Skills Day 2: Career Panel and Presentations w. Families (+30 - 60 mins)
 
 ## Overview
-On Professional Skills days, coders will demonstrate their technical and professional skills progress, update their professional resources, and participate in team building activities. This is a great opportunity to invite other people from your company to see what students have been working on and help guide them as they develop their skills.
 
-## Sessions 
-|Session Slides|*Coders will be able to ...*|External Resources
-|:-------:|-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/14VsPuc5yO-EU2x6slj9JPv4f4eeCyIV5S3gRB_3Ar2U/edit#slide=id.g3748a0c7e9_0_0)|<ul> <li>Create and maintain an up-to-date resume with components that highlight their experience and skills.</li> <li> Update their professional portfolios with projects that showcase their technical ability.</li><li>Communicate technical knowledge effectively to a technical audience.</li> </ul>|[Skills Day Company Invite](https://docs.google.com/document/d/1VUSsZo98NEphSdwJNeo1IINm90TlFBRYzqQT8zvdhbU/edit#)<br>[Skills Day Info Sheet](https://docs.google.com/document/d/1NolKmKi15Wmbwrb2mOQHdvR2r2gqULiUvIebIZD7PBs/edit#)|
+Professional Skills days are a time for students to build their professional skills and develop work products like their LinkedIn, resume and online professional portfolio. Volunteers should feel comfortable sharing their experiences and the tools they use in their professional lives. Families should be invited to this skills day. This professional skills day will focus on volunteers and guests sharing their journey and providing students with an opportunity to envision their own pathways, providing strategies to find jobs and opportunities and project presentations. This lesson is jam-packed. We recommend extending this class an additional half an hour and inviting parents to attend.
 
-----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a>  </h3>
+## Sessions
 
-----
+|                                                       Session Slides                                                       | _Professionals will be able to ..._                                                      |
+| :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/1pjJxAECbI3JHDe5lDziybSv4Oa6tyjtxUHvIVE3zIZA/edit#slide=id.g820c845819_0_0) | Use their resources to research and apply for career opportunities and scholarships.<br> |
+
+Articulate a pathway to a career in technology.<br>
+Communicate technical knowledge to a non-technical audience<br>
+Communicate technical knowledge to a technical audience |
+
+---
+
+## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
+
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+
+---

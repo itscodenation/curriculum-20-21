@@ -1,15 +1,22 @@
-# Skills Day 3: LinkedIn and Whiteboarding
+# Skills Day 3: Resume and Interviewing
 
 ## Overview
-On Professional Skills days, coders will demonstrate their technical and professional skills progress, update their professional resources, and participate in team building activities. This is a great opportunity to invite other people from your company to see what students have been working on and help guide them as they develop their skills.
 
+Professional Skills days are a time for students to build their professional skills and develop work products like their LinkedIn, resume and online professional portfolio. Volunteers should feel comfortable sharing their experiences and the tools they use in their professional lives. The first part of this professional skills day will focus on resumes and the next half will focus on interviewing.
 
-## Sessions 
-|Session Slides|*Coders will be able to ...*|
-|:-------:|-------|
-|[**1**](https://drive.google.com/open?id=1nWz0c4s8r9X5JCnNXuemVAtFHJl_TCOUdhByWxNRLek)| <li> Develop and maintain a strong LinkedIn profile to highlight their experience and skills and build their network.</li> <li>Demonstrate independent problem solving skills and communicate computational thinking through whiteboarding activities.</li> |[Skills Day Company Invite](https://docs.google.com/document/d/1VUSsZo98NEphSdwJNeo1IINm90TlFBRYzqQT8zvdhbU/edit#)<br>[Skills Day Info Sheet](https://docs.google.com/document/d/1NolKmKi15Wmbwrb2mOQHdvR2r2gqULiUvIebIZD7PBs/edit#)|
+## Sessions
 
-----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a> </h3>
+|                                                       Session Slides                                                       | _Professionals will be able to ..._ |
+| :------------------------------------------------------------------------------------------------------------------------: | :---------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/1caq7ZivpL8F-ufvaD_R5O9v_AuenAxaPI57tJutOu3E/edit#slide=id.g8a202dd44c_0_0) |
 
-----
+Effectively prepare for an interview.<br>
+Create and maintain an up-to-date resume with components that highlight their experience and skills.
+
+---
+
+## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
+
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+
+---
