@@ -1,13 +1,17 @@
 # Unit 2: HTML
-|Lesson|Minutes|Objectives<br> *Coders will ...* |External Resources |
-|:-------:|:-------:|:-------|:-------|
-|[**1**](https://drive.google.com/open?id=1LyzPe-kCecxYnwfjsBA-Qy-CQGy5VpLGYFd7cDldbrw)|45| Use correct syntax to create an an opening and a closing HTML tag.|[Team Building Activities](https://docs.google.com/document/d/1NuY9Fcipkr4JSiwShOp7SZCj3JR-VGaXVLEG9mPKPGg/edit)|
-|[**2**](https://drive.google.com/open?id=1kVrgO-iptxrBwKKjRBv0RqSGtBbAmLZeurAusycvZew)|45|Use correct syntax to create simple HTML elements.|[HTML CodeLibs](https://popcode.org/?snapshot=e472dd10-5ff3-4e29-9f0d-e0de0c405c44)|
-|[**3**](https://drive.google.com/open?id=1OsPC5l2EtzXgvc0dhyot7MQGq-r5RWPAre1_h-NOn04)|45|Create HTML elements with attributes to add links to their pages. |N/A|
-|[**4**](https://drive.google.com/open?id=1aHvmjZwuptjFCCV2tdDAXPgKE2tS7gLw5mJA3mrdEKM)|45| Create HTML elements with attributes to add images to their pages. |[Team Building Activities](https://docs.google.com/document/d/1NuY9Fcipkr4JSiwShOp7SZCj3JR-VGaXVLEG9mPKPGg/edit?usp=sharing)|
-|[**5**](https://drive.google.com/open?id=1UxENSn5T9RYHNuaal24RC2maVFeXkJSWgPNU6u6FcJs)|45|Debug by fixing style errors and reading and diagnosing syntax errors. |N/A|
 
-----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a> </h3>
+|                                                     Lesson                                                     | Minutes | Objectives<br> _Coders will ..._                                            |
+| :------------------------------------------------------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/1bKR-ACOwZ2x0CBcoiV8kms1KQ0ZSHSjAhyTCvOHiKfo/edit?usp=sharing)  |   45    | Describe how web pages are built.                                           |
+| [**2**](https://docs.google.com/presentation/d/1uoO0Zu0aU_CIfP44jV33QhDidTVCTMB8OunQTJjDJBY/edit?usp=sharing)  |   45    | Use HTML syntax and structure to create a simple webpage.                   |
+| [**3**](https://docs.google.com/presentation/d/1F1sEnBigUqrbGcCfcfXSvtDc8iMhC2VfBxV9f3IjYfM/edit?usp=sharing)  |   45    | Create HTML elements with attributes to add links to their pages.           |
+| [**4**](https://docs.google.com/presentation/d/1mR6BalJOjf7ZB3qwJFW676Q1NLfKJRmFLyVShiCOPv0/edit?usp=sharing)  |   45    | Render an image on a webpage.                                               |
+| [**5**](https://docs.google.com/presentation/d/1LEBT66KZpSxXBXmE9B0WeW4ygxrGqX_xHjBSy3tNZis/edit?usp=sharing)) |   45    | Debug their code by using their available resources to find and fix errors. |
 
-----
+---
+
+## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
+
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+
+---

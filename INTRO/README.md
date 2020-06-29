@@ -23,7 +23,6 @@ To be Updated
 
 <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
 <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
-----
 
 **Curriculum content contributed by**:
 Alicia Gansley
