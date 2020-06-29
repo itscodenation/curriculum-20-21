@@ -1,12 +1,15 @@
 # Unit 1: Introduction to Code Nation
-|Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources|
-|:-------:|:-------:|:-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1eYEsP4ksd1TIDPIYsGLEVmZntfhNC19Yfn2WxJqgQ04/edit#slide=id.g51abcac1aa_0_0)|45| Describe how coding is used in the world|N/A|
-|[**2**](https://drive.google.com/open?id=1vRs8k6u1W1WdCR5xgPHhm4PeNFbtoxmixAS6bj5XQwQ)|45|Navigate the Popcode coding environment|N/A|
-|[**3**](https://drive.google.com/open?id=1U1b9fq97AubC7F3WlG0nIUs_d_hQxcIYIY_cjUw-M6Y)|45|Navigate Google Classroom|[Tic, Tac, Toe and Mo'](https://popcode.org/?snapshot=abcbeafa-3896-4260-a536-ddeba67197fb)|
 
-----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a>  </h3>
+|                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._              |
+| :-----------------------------------------------------------------------------------------------------------: | :-----: | :--------------------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/1INtV-eVoC1IFpt4JlQTfTgHCdFEDw82ikR8nZlEAvUI/edit?usp=sharing) |   45    | Describe why learning how to code is important |
+| [**2**](https://docs.google.com/presentation/d/1ojN94pBLetwXHtRph-9moRq8A8PSt08WVzzRD85Qr0I/edit?usp=sharing) |   45    | Articulate a pathway to a career in technology |
+| [**3**](https://docs.google.com/presentation/d/14Osxw5NMGJdAQe0YRV3BznXzg1yPOKxCoJPOkFupPHQ/edit?usp=sharing) |   45    | Navigate Code Nation platforms                 |
 
-----
+---
 
+## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
+
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+
+---
