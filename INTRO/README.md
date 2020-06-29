@@ -1,9 +1,5 @@
 # Introduction to Web Development Curriculum, 20 -21
 
-## Pacing Calendar
-
-To be Updated
-
 ## Scope and Sequence
 
 | Unit                                                 |                     Overview                     | Objectives <br> _Coders will..._                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -24,27 +20,29 @@ To be Updated
 <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
 <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
 
-**Curriculum content contributed by**:
-Alicia Gansley
-Allie Jones
-Andrew Ingraham
-Becky Segal
-Ben Romy
-Edgar Muentes
-Erica Wong
-Jenna Van Conett
-Mallory Bulkley
-Mark Griffith
-Mat Brown
-Paul Hurlock-Dick
-Ramata Williams
-Zainab Ebrahimi
-Bridget Bailey
-Brian Clanton
-Abhay Kashyap
-Pratik Pramanik
-Xavi Ramirez
-Katherine Scott
+---
+
+**Special Shoutout to the Curriculum Council**:
+Alicia Gansley,
+Allie Jones,
+Andrew Ingraham,
+Becky Segal,
+Ben Romy,
+Edgar Muentes,
+Erica Wong,
+Jenna Van Conett,
+Mallory Bulkley,
+Mark Griffith,
+Mat Brown,
+Paul Hurlock-Dick,
+Ramata Williams,
+Zainab Ebrahimi,
+Bridget Bailey,
+Brian Clanton,
+Abhay Kashyap,
+Pratik Pramanik,
+Xavi Ramirez,
+Katherine Scott, and
 Jian Xie
 
 <br>
