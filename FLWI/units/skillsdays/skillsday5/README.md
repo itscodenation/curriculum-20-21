@@ -6,12 +6,9 @@ Professional Skills days are a time for students to build their professional ski
 
 ## Sessions
 
-|                                          Session Slides                                           | _Professionals will be able to ..._ |
-| :-----------------------------------------------------------------------------------------------: | :---------------------------------- |
-| [**1**](https://docs.google.com/presentation/d/12grkOoQTpL4OkBmEt3T8WgnIUzHFVtXLUUrj6izzfUo/edit) |
-
-Articulate a pathway to a career in technology.<br>
-Professionals will be able to develop, maintain and grow relationships beyond their Code Nation experience.
+|                                          Session Slides                                           | _Professionals will be able to ..._                                                                                              |
+| :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/12grkOoQTpL4OkBmEt3T8WgnIUzHFVtXLUUrj6izzfUo/edit) | Articulate a pathway to a career in technology.<br>Develop, maintain and grow relationships beyond their Code Nation experience. |
 
 ---
 

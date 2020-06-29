@@ -6,12 +6,11 @@ Professional Skills days are a time for students to build their professional ski
 
 ## Sessions
 
-|                                                       Session Slides                                                       | _Professionals will be able to ..._ |
-| :------------------------------------------------------------------------------------------------------------------------: | :---------------------------------- |
-| [**1**](https://docs.google.com/presentation/d/1caq7ZivpL8F-ufvaD_R5O9v_AuenAxaPI57tJutOu3E/edit#slide=id.g8a202dd44c_0_0) |
+| Session Slides | _Professionals will be able to ..._ |
+| :------------: | :---------------------------------- |
 
-Effectively prepare for an interview.<br>
-Create and maintain an up-to-date resume with components that highlight their experience and skills.
+
+| [**1**](https://docs.google.com/presentation/d/1caq7ZivpL8F-ufvaD_R5O9v_AuenAxaPI57tJutOu3E/edit#slide=id.g8a202dd44c_0_0) Effectively prepare for an interview.<br>Create and maintain an up-to-date resume with components that highlight their experience and skills.|
 
 ---
 
