@@ -17,9 +17,7 @@
 | [**Skills Day 4: Networking and Whiteboarding**](units/skillsday4)                         | <ul><li>Engage in networking with other professionals</li><li>Demonstrate independent problem solving skills and communicate computational thinking through whiteboarding activities</li></ul>                                                                                                                                                                                           |
 | [**6: Giphy Project**](units/unit6)                                                        | <ul><li>Make an api request and handle a JSON API response</li><li>Identify parts of an API request and be able to customize it</li><li>Update their project to create a better user expereince.</li> </ul>                                                                                                                                                                              |
 | [**7: Client Project**](units/unit7)                                                       | <ul><li>Engage in collaborative brainstorming to build consensus around a project idea.</li> <li>Create a project plan to accomplish specific tasks within a predetermined amount of time.</li><li>Engage in sustained coding and apply technical skills to develop and design a webapp for their client.</li><li>Complete their Client Project and prepare for presentations </li></ul> |
-
-|
-| [**8:EOY Unit**](units/unit8) | <ul><li>Complete their professional portfolios with projects that showcase their technical ability.</li> <li>Demonstate their technical ability through a HackerRank assessment.</li><li>Deliver an engaing presentation</li> </ul> |
+| [**8:EOY Unit**](units/unit8)                                                              | <ul><li>Complete their professional portfolios with projects that showcase their technical ability.</li> <li>Demonstate their technical ability through a HackerRank assessment.</li><li>Deliver an engaing presentation</li> </ul>                                                                                                                                                      |
 
 ---
 
