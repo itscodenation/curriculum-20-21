@@ -6,13 +6,9 @@ Professional Skills days are a time for students to build their professional ski
 
 ## Sessions
 
-|                                                       Session Slides                                                       | _Professionals will be able to ..._                                                      |
-| :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------- |
-| [**1**](https://docs.google.com/presentation/d/1pjJxAECbI3JHDe5lDziybSv4Oa6tyjtxUHvIVE3zIZA/edit#slide=id.g820c845819_0_0) | Use their resources to research and apply for career opportunities and scholarships.<br> |
-
-Articulate a pathway to a career in technology.<br>
-Communicate technical knowledge to a non-technical audience<br>
-Communicate technical knowledge to a technical audience |
+|                                                       Session Slides                                                       | _Professionals will be able to ..._                                                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [**1**](https://docs.google.com/presentation/d/1pjJxAECbI3JHDe5lDziybSv4Oa6tyjtxUHvIVE3zIZA/edit#slide=id.g820c845819_0_0) | Use their resources to research and apply for career opportunities and scholarships.<br> Articulate a pathway to a career in technology.<br> Communicate technical knowledge to a non-technical audience<br>Communicate technical knowledge to a technical audience |
 
 ---
 
