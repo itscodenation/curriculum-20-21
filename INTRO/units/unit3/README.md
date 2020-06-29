@@ -1,15 +1,17 @@
 # Unit 3: CSS
 
-|Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources|
-|:-------:|:-------:|:-------|:-------|
-|[**1**](https://drive.google.com/open?id=1Nqap_mrYqTi1rdecA9TDjkK3Lm6_tNszpp8dXVJB_RA)|45| Select an HTML element and change its style using a single CSS property and value.|N/A|
-|[**2**](https://drive.google.com/open?id=1IceCITQ-oCl-o8xQ_qwIKAqS93zHskbNNyP9bVe5jE0)|45|Select an HTML element and change its style using multiple CSS properties and values  |N/A|
-|[**3**](https://drive.google.com/open?id=1gOYPKXDdzmBELugH1NdoWfmddpYfUiBZ4BUcXbYajDA)|45|Describe the difference between head and body by linking Google Fonts to style their page. |[Google Fonts](https://github.com/ScriptEdcurriculum/curriculum2016/blob/master/year1/units/unit2/google-fonts-activity.md)|
-|[**Project 1**](https://drive.google.com/open?id=1s1_TD-u6oZMmQBrqBn5u9h5GlszePIZGB3SaiyuVE_Y)|45x2|Use CSS properties and values, and Google Fonts to style a profile page.|[Kahoot](https://create.kahoot.it/share/html-css-review/b1030934-e7f9-4bf4-956c-5bb666a91a8c)|
+|                                                       Lesson                                                        | Minutes | Objectives <br> _Coders will ..._                                                             |
+| :-----------------------------------------------------------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------- |
+|    [**1**](https://docs.google.com/presentation/d/1sRNznw6Dj270EfuuQIKGHd9fdOYWjv4x2Mf4REcFkO8/edit?usp=sharing)    |   45    | Select an HTML element and change its style using CSS.                                        |
+|    [**2**](https://docs.google.com/presentation/d/18MHX3WvGbxhjk_683_mF-l7LGpnnMQRgywb1nQUyH1U/edit?usp=sharing)    |   45    | Use class attributes and selectors to style specific groups of elements on the page.          |
+|    [**3**](https://docs.google.com/presentation/d/14uTwa8GbeOehPNT9JBWPXUhTS-vEh7x8N5F07OIwOAI/edit?usp=sharing)    |   45    | Represent the same data in multiple ways.                                                     |
+|    [**4**](https://docs.google.com/presentation/d/17AgfaGRv5y8PtAu54xtKhY5MeDiBFM-1hadqpl0ZNQM/edit?usp=sharing)    |   45    | Import an external library to add style to a webpage.                                         |
+| [**Project**](https://docs.google.com/presentation/d/1sO0l9sid4Urrx0CWWxMw_WjA5WkYo1M_c4TjnyW5jww/edit?usp=sharing) |  45x2   | Use CSS properties and values, and Google Fonts to style a profile page. (Individual Project) |
 
+---
 
-----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a> </h3>
+## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
 
-----
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
 
+---

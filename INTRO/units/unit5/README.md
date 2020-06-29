@@ -1,22 +1,17 @@
-# Unit 5: Layout and positioning
+# Unit 5: Professional Skills
 
+|                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._                                    |
+| :-----------------------------------------------------------------------------------------------------------: | :-----: | :------------------------------------------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/1oOEQkrPMqnoU41ybT9NiyagSr7V8DK-p6xwm8Q0JlXA/edit?usp=sharing) |   45    | Export projects to a shareable online portfolio                      |
+| [**2**](https://docs.google.com/presentation/d/13l1a3NbZUAUzPBbkY-Jtf3N2CTvxyJADTul1MGBH0Cs/edit?usp=sharing) |   45    | Communicate appropriately with a variety of audiences through email. |
+| [**3**](https://docs.google.com/presentation/d/13wBMQGl8RfSANsWUBrK3OIkooFD9bLp1h6IKEY7M2WI/edit?usp=sharing) |   45    | Articulate pathways to a career in technology.                       |
+| [**4**](https://docs.google.com/presentation/d/1GLMRPKS5mmXkncya6XtE4GrCV83esr7ViCPKteUWqYo/edit?usp=sharing) |   45    | Navigate HackerRank and review key HTML and CSS concepts.            |
+| [**5**](https://docs.google.com/presentation/d/18XIET48T-vOn6KdUIgck_vbh7MlWc4mafqVuztmxppk/edit?usp=sharing) |   45    | Demonstrate their technical mastery through a Mid-Year challenge.    |
 
+---
 
+## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
 
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
 
-
-|Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources
-|:-------:|:-------:|:-------|:-------:|
-|[**1**](https://drive.google.com/open?id=1-R6oBgWKF0NlN9F7YBFkvav4yypN0nDdsanOlagNjf8)|45|Use divs to organize elements on a page|N/A|
-|[**2**](https://drive.google.com/open?id=1HJuc0w84uUOuURLaYp0dqdMRB_dhRFcnmfMpiFXavS8)|45| Use box model (padding, border, and margin) to manipulate the spacing of elements on a page.|N/A|
-|[**3**](https://drive.google.com/open?id=1moyBCY8Fcei7Nr4jyyRLN1Vl7EWVpvA88ZvRaGBXWKs)|45| Use flexbox to align elements on a webpage.|[Flexbox Froggy](https://flexboxfroggy.com/)<br>[Flexbox Defense](http://www.flexboxdefense.com/)|
-|[**Project 1**](https://drive.google.com/open?id=1o1BzLok_G7PRsOeonu6fq-_m_9a0PJh_jEkxajhatsU)|45x2|Create a webpage on someone who inspires you|N/A|
-
-
-
-----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a>  </h3>
-
-----
-
-
+---

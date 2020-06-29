@@ -1,17 +1,16 @@
 # Unit 8: Conditionals
 
+|                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._                                                         |
+| :-----------------------------------------------------------------------------------------------------------: | :-----: | :---------------------------------------------------------------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/1ELUSH2cgd5q11N2xznOpyi8Uoek3cEetD1UyXJLXMMA/edit?usp=sharing) |   45    | Create basic conditional statements.                                                      |
+| [**2**](https://docs.google.com/presentation/d/1AjeGbk_ozryhBLITv7J25Exp2FrI-E3JuniF4cRgmuU/edit?usp=sharing) |   45    | Create conditional statements with multiple conditions using else-if.                     |
+| [**3**](https://docs.google.com/presentation/d/1V9E5r3Wrs7kanyDgqQP3O7FFZKiZ_F1oT2iOz3zZ1YY/edit?usp=sharing) |   45    | Identify, evaluate, and construct compound conditional statements                         |
+|        [**Project 1**](https://drive.google.com/open?id=1o_iziw0N-TxIP7L1_gDoDd4g3F0Gw3-knWhv4ugkre0)         |  45x2   | Create a website that uses conditional statements to control program flow (Group Project) |
 
+---
 
+## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
 
-|Lesson|Minutes|Objectives <br> *Coders will ...*|External Resources
-|:-------:|:-------:|:-------|:-------:|
-|[**1**](https://drive.google.com/open?id=1hmfAV_oIsX5VETDOTZ_VCVuQj3G7wGQBhv5_As46rXs)|45|Create basic conditional statements.|[If/Else Practice](https://popcode.org/?gist=a9c3336d96e106394037e522ecc41fa0)|
-|[**2**](https://drive.google.com/open?id=109FV9UJxFCey6tIkDuoMuzvaxockQLLLwQ-8_G-vhmw)|45|Create conditional statements with multiple conditions using else-if.|[Class Year](https://popcode.org/?snapshot=d14787b9-68c5-489a-ae20-a74d93d75b92)|
-|[**3**](https://drive.google.com/open?id=1g-IFQ_31oN1A3d8Rn32HKqyLl7Izfusy8_8ZHdtM_44)|45|Identify, evaluate, and construct compound conditional statements|[Password Guesser](https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/year1/units/unit9/projects/project1)|
-|[**Project 1**](https://drive.google.com/open?id=1o_iziw0N-TxIP7L1_gDoDd4g3F0Gw3-knWhv4ugkre0)|45x2|Create a website that uses conditional statements to control program flow|[Weekend Plan Generator](https://popcode.org/?snapshot=256af43f-9252-4013-83a2-5569f8729315)|
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
 
-
-----
-<h3 align="center"><a href="hhttps://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a> </h3>
-
-----
+---
