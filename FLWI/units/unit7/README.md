@@ -1,17 +1,22 @@
-# Unit 6: Intro to React: Jeopardy
+# Unit 7: Client Project
 
 ## Overview
-In this unit, coders will create a jeopardy game using react. To create this project, coders will use react to take render content, and react to user clicks.
 
-## Sessions 
-|Session Slides|*Coders will be able to ...*|External Resources
-|:-------:|-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1KgmUcs_E70mZEY4Rb5ZSmasZk4QO3gAweoztpB19nls/edit#slide=id.g598fc86c5a_0_0)|<ul><li>Create and call components to render content on the screen</li></ul>||
-|[**2**](https://drive.google.com/open?id=1iv-V79UIFxxQE11MUA7kyYrtpjy6PjyqldZooBBTFxY)|<ul><li>Customize component using props</li></ul> ||
-|[**3**](https://drive.google.com/open?id=1t7D8NQ0hWlW0Vybop_kPJpsmByQWDwpCNOmCvuXDUOI)|<ul><li>Create a function to handle user interaction</li></ul>||
-|[**4**](https://drive.google.com/open?id=1pCXptuSh3w5A4kWWnO2-bnvfsrSAHTUE29uqAh01XZU)|<ul><li>Create and update component state</li></ul>||
+In this unit, coders will work in pairs or groups of 3 to build a project for a client based on a given set of APIs.
 
-----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a> </h3>
+## Sessions
 
-----
+|                                                Session Slides                                                 | _Coders will be able to ..._                                                                                                                                                 |
+| :-----------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/14wnnqokzXEMJ5tfyVOVR745hMcFZq35OyMP3pe32puo/edit?usp=sharing) | Engage in collaborative brainstorming to build consensus around a project idea.<br>Create a project plan to accomplish specific tasks within a predetermined amount of time. |
+| [**2**](https://docs.google.com/presentation/d/1mLTvlfsJjPXZymJMRy2VwOXNmcWaMw3n-Xwps2N-3l4/edit?usp=sharing) | Engage in sustained coding and apply technical skills to develop and design a webapp for their client.                                                                       |
+| [**3**](https://docs.google.com/presentation/d/1oSdeeAdNMRrDoVVu-FtwiejTxjwYEcsL-jQt_-VTHIs/edit?usp=sharing) | Engage in sustained coding and apply technical skills to develop and design a webapp for their client.                                                                       |
+| [**4**](https://docs.google.com/presentation/d/1pXYQOvH08dmEesHJS2t_16HxDS-NTDwIqN1lMPQKuXM/edit?usp=sharing) | Complete their Client Project and prepare for presentations.                                                                                                                 |
+
+---
+
+## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
+
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+
+---

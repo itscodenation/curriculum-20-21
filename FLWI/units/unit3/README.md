@@ -1,15 +1,21 @@
-# Unit 2: Control Flow: Rock Paper Scissors
+# Unit 3: Tic, Tac, Toe (Group)
 
 ## Overview
-In this unit, coders will create a Rock, Paper, Scissors game. The game will take in a user choice, generate a computer choice, and display the winner to the screen. To create this project, coders will use jQuery to take user input, use the Math Library to pick a random computer choice, and use conditionals to determine the winner.
 
-## Sessions 
-|Session Slides|*Coders will be able to ...*|External Resources
-|:-------:|-------|:-------:|
-|[**1**](https://drive.google.com/open?id=1JdZRNE4y1aPOwdnG21Wx8S1eFIwoBy9U9d83YoSNsD0)|<ul><li>Use jQuery to create html elements and display them on the page</li><ul>|[02.1 Crack the Safe](https://docs.google.com/presentation/d/1sEPBp42DDjv0hWE-H6ktNy0ao9DVryEnyEWkyWhjQVw/edit)| 
-|[**2**](https://drive.google.com/open?id=1Q7HBeCbPQBypF-f93ExeFO82OWTvTgAalh-lPJ3Ktig)|<ul><li>Generate a random number using Math functions</li></ul>|[02.2 Crack the Safe](https://docs.google.com/presentation/d/14Lz1EDi4FZcQBsIXB42fffBZmgS6I_pVF8chFIs7PEk/edit#slide=id.g6162f10bc2_0_0)| 
-|[**3**](https://drive.google.com/open?id=1ySVXf8US86J8HhyulyZq7JxjZUGGzbuZqaermqmQ9_A)|<ul><li>Write a compound conditional statement using && and ll </li></ul>|[02.3 Crack the Safe](https://docs.google.com/presentation/d/1tV4rGwOdKE8ECFttEFaHzpLEtHNTWgzLS92Bj8OMwjw/edit#slide=id.g61d39f2601_0_0)| 
-----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a>  </h3>
+In this unit, coders will create a Tic Tac Toe game. Users will alternate clicking buttons on the board which will change to an X or an O. When one user plays 3 in a row, the game will end and display a message to the winner. To create this project, coders will write and call multiple functions including ones with multiple parameters and conditional statements.
 
-----
+## Sessions
+
+|                                                Session Slides                                                 | _Coders will be able to ..._                                                            |
+| :-----------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/1nrNzrlHI7RNHRijmKISmqbIWoUNR4T0ivPakjWkx4Ns/edit?usp=sharing) | Declare a function with a single parameter that returns a value                         |
+| [**2**](https://docs.google.com/presentation/d/1S_k-SOHv1wlcJ9U9U1Za7N1XyJy3wx7ZE--HXTFjSH4/edit?usp=sharing) | Use functions to break long sections of code into smaller, easier to understand pieces. |
+| [**3**](https://docs.google.com/presentation/d/1swfbGuuCzljZTLEoHZasaDeNVkWKYd1Hy1SZz2lHdik/edit?usp=sharing) | Apply global and local scope in order to solve a problem                                |
+
+---
+
+## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
+
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+
+---
