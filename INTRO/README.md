@@ -1,53 +1,68 @@
-# Introduction to Web Development Curriculum, 20 -21
+Introduction to Web Development Curriculum, 19-20
+===================
 
+<!--
+Pacing Calendar (Year 1)
+===================
+|  Sept | Oct | Nov | Dec | Jan | Feb | March | April | May |
+|:--------|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| <sub> [**0:Welcome**](units/unit1) <br> 1: HTML <br> **Survey**</sub>| <sub> 2:CSS  <br>3:HTML  <br> 4:Positioning </sub> |<sub> 5:jQuery <br>6:Cloud9 <br>7:Github </sub>| <sub>6:Cloud9  <br>7:Github </sub> |<sub> 8:JavaScript  <br>9:Types, Conditionals </sub>| <sub> 9: Types, Conditionals <br>10:Functions </sub> | <sub>11:Arrays <br>12:Animations </sub>| <sub>12:Animations <br>13:Looping</sub>|<sub> 14:Capstone <br> Survey </sub>|
+-->
 ## Pacing Calendar
-
-To be Updated
+![Imgur](INTCalendar.png)
 
 ## Scope and Sequence
 
-| Unit                                              |                     Overview                     | Objectives <br> _Coders will..._                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| :------------------------------------------------ | :----------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**1: Introduction to Code Nation**](units/unit1) |                    3 Lessons                     | <ul> <li>Describe why learning how to code is important</li> <li>Articulate a pathway to a career in technology</li> <li>Navigate Code Nation platforms</li> </ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| [**2: HTML**](units/unit2)                        |                    5 Lessons                     | <ul><li>Describe how web pages are built</li> <li> Use HTML syntax and structure to create a simple webpage</li> <li> Create HTML elements with attributes to add links to their pages.</li> <li> Render an image on a webpage</li> <li> Debug their code by using their available resources to find and fix errors. </li></ul>                                                                                                                                                                                                                                                                                                                                  |
-| [**3: CSS**](units/unit3)                         |        4 Lessons<br> 1 Individual Project        | <ul> <li>Select an HTML element and change its style using CSS.</li> <li>Use class attributes and selectors to style specific groups of elements on the page</li> <li>Represent the same data in multiple ways</li><li>Import an external library to add style to a webpage</li><li>Use a wireframe to plan a webpage.</li><li>Use CSS properties and values, and Google Fonts to style a profile page. (Individual Project)</li> </ul>                                                                                                                                                                                                                          |
-| [**4: Layout and Positioning**](units/unit4)      |           4 Lessons<br>1 Group Project           | <ul> <li>Use the properties of the box model to change how elements are displayed on the webpage.</li> <li>Use div elements to group and organize elements on a webpage.</li> <li>Use flexbox to align elements horizontally on a webpage</li><li>Use multiple class attributes to style specific classes of elements on a webpage.</li><li>Create an original webpage that utilizes layout and positioning skills. (Group Project)</li> </ul>                                                                                                                                                                                                                   |
-| [**5: Professional Skills**](units/unit5)         |                    5 Lessons                     | <ul> <li>Export projects to a shareable online portfolio</li><li>Communicate appropriately with a variety of audiences through email.</li><li>Articulate pathways to a career in technology.</li><li>Navigate HackerRank and review key HTML and CSS concepts.</li><li>Demonstrate their technical mastery through a Mid-Year challenge</li></ul>                                                                                                                                                                                                                                                                                                                |
-| [**6: jQuery**](units/unit6)                      |        4 Lessons<br>1 Individual Project         | <ul><li>Use jQuery to select, show, and hide HTML elements</li><li>Use jQuery actions to make HTML elements toggle, slide, and fade</li><li>Use jQuery actions that take one or more arguments, such as .text(), and .css(), when a button is clicked</li><li>Write event handlers that allow the page to respond when a user interacts with it</li><li>Use jQuery actions to build an interactive website</li></ul>                                                                                                                                                                                                                                             |
-| [**7: Introduction to JavaScript**](units/unit7)  | 5 Lessons<br>1 Review Lesson<br> 1 Group Project | <ul><li>Define a program language and identify ways that javascript can be used in a website</li><li>Create a new variable, store information in it, and read its value.</li><li>Identify strings and numbers as data types and differentiate between them. </li><li>Use operators to manipulate data.</li><li>Use input.val( ) to retrieve a value from an input field.</li><li>Use .append() and string interpolation to add an element to the screen.</li><li>create a website that retrieves a user input, stores user input in a variable, manipulates data using operators, and displays the output on the page using .append(). (Group Project)</li></ul> |
-| [**8: Conditionals**](units/unit8)                |          3 Lessons<br> 1 Group Project           | <ul><li>Create basic conditional statements.</li><li>Create conditional statements with multiple conditions using else-if.</li> <li>Identify, evaluate, and construct compound conditional statements</li><li>Create a website that uses conditional statements to control program flow. (Group Project)</li></ul>                                                                                                                                                                                                                                                                                                                                               |
-| [**9: Arrays and Loops**](units/unit9)            |        3 Lessons<br>1 Individual Project         | <ul><li>Create an array and retrieve an array element using the index.</li><li>Iterate over an array.</li> <li>Use array methods.</li> <li>Create a website that uses loops to iterate over arrays. (Individual)</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| [**10: End of Year Unit**](units/unit10)          |                    8 Lessons                     | <ul><li>Enagage in collabortive brainstorming.</li><li>Collaborate with team members on a shared project.</li><li>Export projects to a shareable online portfolio.</li><li>Develop skills to properly prepare for a presentation and present Hackathon projects.</li><li>Review key concepts learned over the course of the year.</li><li>Demonstrate their technical mastery through and End of year challenge.</li><li>Celebrate their technical mastery and showcase exemplar projects.</li></ul>                                                                                                                                                             |
-
----
-
-<h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-<h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+| Unit | Overview | Objectives <br> *Coders will...*|
+|:--------|:-------:|:---------|
+| [**1: Introduction to Code Nation**](units/unit1) |3 Lessons| <ul> <li>Describe how coding is used in the world</li> <li>Navigate the Popcode coding environment</li> <li>Navigate Google Classroom</li> </ul>
+| [**2: HTML**](units/unit2) |5 Lessons| <ul><li> Use correct syntax to create an an opening and a closing HTML tag.</li> <li> Use correct syntax to create simple HTML elements.</li> <li> Create HTML elements with attributes to add links to their pages. </li> <li> Create HTML elements with attributes to add images to their pages.</li> <li> Debug their code by using available resources to find and fix errors. </li></ul>
+| [**3: CSS**](units/unit3) |3 Lessons<br> 1 Project|<ul> <li>Select an HTML element and change its style using a single CSS property and value.</li> <li>Select an HTML element and change its style using multiple CSS properties and values</li> <li>Describe the difference between head and body by linking Google Fonts to style their page.</li><li>Use CSS properties and values, and Google Fonts to style a profile page. (Group Project)</li> </ul>
+| [**4: Advanced CSS**](units/unit4) |2 Lessons<br>1 Project<br>1 Review Lesson|<ul> <li>Use class attributes and selectors to style specific groups of elements on the page</li> <li>Use multiple class attributes to apply specific styling to elements on the page</li> <li>Use class selectors and class attributes to style an awards website.</li><li>Review all objectives covered from units 1-4</li> </ul>
+| [**5: Layout and Positioning**](units/unit5) |3 Lessons<br>1 Project|  <ul> <li>Using divs to organize elements on a page</li><li>Use box model (padding, border, and margin) to manipulate the spacing of elements on a page.</li><li>Use flexbox to align elements on a webpage.</li><li>Create a webpage on someone who inspires you</li></ul>
+| [**6: jQuery**](units/unit6) |4 Lessons<br>1 Project|<ul><li>Use jQuery to select, show, and hide HTML elements</li><li>Use jQuery actions to make HTML elements toggle, slide, and fade</li><li>Use jQuery actions that take one or more arguments, such as .text(), and .css(), when a button is clicked</li><li>Write event handlers that allow the page to respond when a user interacts with it</li><li>Use jQuery actions to build an interactive website</li></ul>
+| [**Mid-Year Unit: Hackathon**](units/midyear) |6 Lessons|<ul><li>Enagage in collaborative brainstorming, use a wireframe to plan a webpage.</li><li>Collaborate with team members on a shared project</li><li>Understand how to export projects to a sharable online porfolio</li><li>Develop skills to properly prepare for a presentation</li><li>Complete the Mid-Survey and review HTML, CSS, and jQuery concepts</li></ul>
+| [**7: Introduction to Javascript**](units/unit7) |5 Lessons<br>1 Project|<ul><li>Define a program language and identify ways that javascript can be used in a website</li><li>Create a new variable, store information in it, and read its value.</li><li>Identify strings and numbers as data types and differentiate between them.use operators to manipulate data.</li><li>Use input.val( ) to retrieve a value from an input field.</li><li>Use .append() and string interpolation to add an element to the screen.</li><li>Create a website that stores user input, manipulates the input and displays output.</li></ul>
+| [**8: Conditionals**](units/unit8) |3 Lessons<br> 1 Project|  <ul><li>Create basic conditional statements.</li><li>Create conditional statements with multiple conditions using else-if.</li> <li>Identify, evaluate, and construct compound conditional statements</li><li>Create a website that uses conditional statements to control program flow</li></ul>
+| [**9: Arrays and Loops**](units/unit9) |3 Lessons<br>1 Project<br> 1 Review Lesson|<ul><li>Create an array and retrieve an array element using the index.</li><li>Create for of loops in JavaScript in order to iterate over an array.</li> <li>Add elements to an array by using .push() and get the number of elements in the array by using .length .</li> <li>Create a website that uses loops to iterate over arrays</li><li>Review all objectives covered from units 7-9</li></ul>
+| [**10: Capstone Project**](units/unit10) |5 Lessons |  <ul><li>Enagage in collabortive brainstorming, use a wireframe to plan a webpage.</li><li>Collaborate with team members on a shared project.</li><li>Understand how to export projects to a sharable online porfolio.</li><li>Develop skills to properly prepare for a presentation.</li><li>Complete an end-of-year survey to reflect on their Code Nation experience and share feedback.</li><li>Present their Capstone Projects</li></ul>
+| [**EOY Unit**](units/EOY_Review_Unit) |2 Lessons |<ul><li> Demonstrate their technical mastery through and End of year assessment</li><li>Celebrate their technical mastery and showcase exemplar projects.</li></ul>
 ----
 
-**Curriculum content contributed by**:
-Alicia Gansley
-Allie Jones
-Andrew Ingraham
-Becky Segal
-Ben Romy
-Edgar Muentes
-Erica Wong
-Jenna Van Conett
-Mallory Bulkley
-Mark Griffith
-Mat Brown
-Paul Hurlock-Dick
-Ramata Williams
-Zainab Ebrahimi
-Bridget Bailey
-Brian Clanton
-Abhay Kashyap
-Pratik Pramanik
-Xavi Ramirez
-Katherine Scott
-Jian Xie
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a></h3>
 
+----
+## School Teacher Resources
+
+* [CodeNation Teacher Liaison Curriculum Guide 19-20](https://docs.google.com/document/d/1IisBQOGlbDj1QBxcGtKrL-E5gZXhoUiumWlvkNHz8yg/edit): To be used in the Code Nation courses that are co-taught with a teacher from the school.
+
+----
+
+**Curriculum content contributed by**: 
+Allie Jones, 
+Andrew Ingraham, 
+Elizabeth Dowd, 
+Gilbert Ghang, 
+Jenna Van Conett, 
+Matthew A. Brown, 
+Matthew Gerrior, 
+Mark Griffith, 
+Ramata Williams, 
+Sayri Suarez, 
+Simon Lesser, 
+Sophat Sam, 
+Vanessa Dean, 
+Zainab Ebrahimi, 
+Bridget Bailey, 
+Elizabeth Dielentheis, 
+Gracie Elqura, 
+Kevin Dou, 
+Marina Bichoffe, 
+Pratik Pramanik, 
+Razzi Abuissa, 
+Roan Kattouw, 
+Traci Lopez, 
+Xavi Ramirez
 <br>
 <p> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
 
