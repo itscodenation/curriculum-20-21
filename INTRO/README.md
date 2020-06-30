@@ -1,4 +1,4 @@
-# Introduction to Web Development Curriculum, 20 -21
+# Introduction to Web Development Curriculum, 20-21
 
 ## Scope and Sequence
 
