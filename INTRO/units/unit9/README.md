@@ -1,6 +1,6 @@
 # Unit 9: Arrays and Loops
-|Lesson| Minutes | Objectives <br> _Coders will ...|
-| :---------------------------------------------: | :-----: | :--------------------------------------------------------------: |
+|Lesson| Minutes | Objectives <br> _Coders will ..._|
+|:---------------------------------------------:|:-----:|:--------------------------------------------------------------:|
 
 | [**1**](https://docs.google.com/presentation/d/1tE2E88VIWRue57vkvUzlwSzwpSxkRsU6jnhP7PPsDHM/edit?usp=sharing) |   45    | Create an array and retrieve an array element using the index.        |
 | [**2**](https://docs.google.com/presentation/d/1Wgjs4aGRxF3d8UrKV-JPpTsmbrewq-oY_ibRwyht94M/edit?usp=sharing) |   45    | Iterate over an array.                                                |
