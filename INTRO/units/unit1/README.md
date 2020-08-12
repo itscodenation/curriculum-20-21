@@ -1,10 +1,10 @@
 # Unit 1: Introduction to Code Nation
 
-|                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._       |Remote Lesson       |
+|Remote Lesson|                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._            |
 | :--------------:|:--------------------------------------: | :-----: | :--------------------------------------------- |
-|| [**1**](https://docs.google.com/presentation/d/1INtV-eVoC1IFpt4JlQTfTgHCdFEDw82ikR8nZlEAvUI/edit?usp=sharing) |   45    | Describe why learning how to code is important |
-|| [**2**](https://docs.google.com/presentation/d/1ojN94pBLetwXHtRph-9moRq8A8PSt08WVzzRD85Qr0I/edit?usp=sharing) |   45    | Articulate a pathway to a career in technology |
-|| [**3**](https://docs.google.com/presentation/d/14Osxw5NMGJdAQe0YRV3BznXzg1yPOKxCoJPOkFupPHQ/edit?usp=sharing) |   45    | Navigate Code Nation platforms                 |
+|1| [**1**](https://docs.google.com/presentation/d/1INtV-eVoC1IFpt4JlQTfTgHCdFEDw82ikR8nZlEAvUI/edit?usp=sharing) |   45    | Describe why learning how to code is important |
+|2| [**2**](https://docs.google.com/presentation/d/1ojN94pBLetwXHtRph-9moRq8A8PSt08WVzzRD85Qr0I/edit?usp=sharing) |   45    | Articulate a pathway to a career in technology |
+|3| [**3**](https://docs.google.com/presentation/d/14Osxw5NMGJdAQe0YRV3BznXzg1yPOKxCoJPOkFupPHQ/edit?usp=sharing) |   45    | Navigate Code Nation platforms                 |
 
 ---
 
