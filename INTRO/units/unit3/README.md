@@ -1,7 +1,7 @@
 # Unit 3: CSS
 
-|Remote Lesson|                                                       Lesson                                                        | Minutes | Objectives <br> _Coders will ..._                                                             |
-|:-----"| :-----------------------------------------------------------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------- |
+| Remote Lesson |                                                       Lesson                                                        | Minutes | Objectives <br> _Coders will ..._                                                             |
+|:-----:| :-----------------------------------------------------------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------- |
 | [**1**]()|    [**1**](https://docs.google.com/presentation/d/1sRNznw6Dj270EfuuQIKGHd9fdOYWjv4x2Mf4REcFkO8/edit?usp=sharing)    |   45    | Select an HTML element and change its style using CSS.                                        |
 | [**2**]()|    [**2**](https://docs.google.com/presentation/d/18MHX3WvGbxhjk_683_mF-l7LGpnnMQRgywb1nQUyH1U/edit?usp=sharing)    |   45    | Use class attributes and selectors to style specific groups of elements on the page.          |
 | [**3**]()|    [**3**](https://docs.google.com/presentation/d/14uTwa8GbeOehPNT9JBWPXUhTS-vEh7x8N5F07OIwOAI/edit?usp=sharing)    |   45    | Represent the same data in multiple ways.                                                     |
