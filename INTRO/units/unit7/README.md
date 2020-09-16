@@ -6,7 +6,7 @@
 |     [**2**](https://docs.google.com/presentation/d/15R71dJLJs-S_OGPcBtPZJOhQ3IbSLiiGetWa0g7AhJU/edit?usp=sharing)     |   45    | Identify strings and numbers as data types and differentiate between them<br> Use operators to manipulate data        <br> Use the console to debug code                                                                |
 |     [**3**](https://docs.google.com/presentation/d/1QomWGJmdjc0aHJZPLjb8SI-NGQPaw5Trl6A3Q1jeAWA/edit?usp=sharing)     |   45    | Use input.val( ) to retrieve a value from an input field.                                                                                                                             |
 |     [**4**](https://docs.google.com/presentation/d/1Tecktka08NtQ2Kyg-AbXpLGTOUu9LTJI0e9j6UotmyU/edit?usp=sharing)     |   45    | Use .append() and string interpolation to add an element to the screen.                                                                                                               |
-| [**Review Lesson**](https://docs.google.com/presentation/d/11SPm61ewL8C3R0YkWBE4stwBC5NcXnI0pp2Vg7Bn8_4/edit#slide=id.g801a20f61f_0_4200) |  45 | Review key concepts from Units 6 and 7)|
+| [**Review**](https://docs.google.com/presentation/d/11SPm61ewL8C3R0YkWBE4stwBC5NcXnI0pp2Vg7Bn8_4/edit#slide=id.g801a20f61f_0_4200) |  45 | Review key concepts from Units 6 and 7)|
 | [**Project 1**](https://docs.google.com/presentation/d/1I9I1iPAHTIJuHCg4nB9hMovAbUOjzHTJkkeftvhOCQE/edit?usp=sharing) |  45x2   | Create a website that retrieves a user input, stores user input in a variable, manipulates data using operators, and displays the output on the page using .append(). (Group Project) |
 
 ---
