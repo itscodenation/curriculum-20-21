@@ -27,13 +27,13 @@
 ---
 
 **Special Shoutout to the Fellowship Volunteers that spent countless hours developing this curriculum.**:
-Faran Jessani
-Joe Tessler
-Andrew Vorwald
-Daniel Calise
-Edgar J. Muentes
-Stanislav Kutyepov
-Matthew B.Schupack
+Faran Jessani, 
+Joe Tessler, 
+Andrew Vorwald, 
+Daniel Calise, 
+Edgar J. Muentes, 
+Stanislav Kutyepov, 
+Matthew B.Schupack, 
 Kevin Dou
 
 <br>
