@@ -1,37 +1,45 @@
-# Coding Fellowship II, 19-20
-## Pacing Guide
-![alt tag](https://github.com/itscodenation/curriculum19-20/blob/master/studio/PacingCalendar2.png)
+# Coding Fellowship I, 20-21
+
 ## Scope and Sequence
 
-| Unit  | Sessions | Overview|
-|:-------|:-------:|------|
-| [**1: Routines and Procedures, Office Tour**](units/unit1) | 1 | <ul><li>Describe Studio class routines and procedures Review core Javascript skills</li>|
-| [**2: JS (ES6) and React: Family Tree Project**](units/unit2) | 8 |<ul><li>Implement and navigate the following data structures: array and objects</li><li>Learn about trees and implement recursive functions</li><li>Explain (2) and implement (1) sorting algorithm</li><li>Create, call, and extend React Components</li><li>Use React props to pass data between components. </li><li>Manipulate state and write event-handlers to update and change their components.</li> <li>Use props and state to conditionally render HTML elements on a page.</li><li>Complete, prepare for and practice a project presentation </li> </ul>|
-| [**Presentation Day**](units/singleDayLesson)| 1 |<ul><li>Communicate their technical knowledge effectively to a non-technical audience.</li><li>Communicate their technical knowledge effectively to a technical audience.</li> </ul>|
-| [**3: React: Trivia Project**](units/unit3)| 8 | <ul><li>Set up a project from a repository using Visual Studio.</li><li>Use classes to represent data models</li><li>Use multiple components to create complex layout</li><li>Read complex data from firebase database</li><li>use unidirectional data flow to pass down state </li><li>Project work day</li> <li>Prepare for and practice a project presentation </li></ul>|
-| [**Presentation Day**](units/singleDayLesson)| 1 |<ul><li>Communicate their technical knowledge effectively to a non-technical audience.</li><li>Communicate their technical knowledge effectively to a technical audience.</li></ul> |
-| [**4: Final Project React and Firebase Studio Game App**](units/unit4)| 8 | <ul><li>Engage in collaborative brainstorming to build consensus around a project idea.</li><li>Create a project plan to accomplish specific tasks within a predetermined amount of time</li><li>Read session metadata from Firebase</li><li>Write data to firebase and listen for changes to data from Firebase</li><li>Map over an array</li><li>Design and implement a data model</li><li>Handle data changes in React </li> <li>Refactor a React component</li><li>Add styles to a React component</li> <li>Prepare for and practice a project presentation </li> </ul>
-| [**Presentation Day**](units/singleDayLesson)| 1 |<ul><li>Communicate their technical knowledge effectively to a non-technical audience.</li><li>Communicate their technical knowledge effectively to a technical audience.</li> </ul>|
-----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a> </h3>
+| Unit                                                                                        | Overview                                                                                                                                                                                                                                                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**1: Portfolios**](units/unit1)                                                            | <ul><li>Describe the course routines and procedures and review HTML/CSS</li><li>Review HTML, CSS, and Layout Positioning concepts and navigate Glitch</li><li>learn to upload and link files and complete their online portfolio projects</li> </ul>                                                                                                                                     |
+| [**Review: Review Unit**](units/reviewunit)                                                 | <ul><li>Communicate with a variety of audiences through email.</li><li>Identify ways that JavaScript can be used in a website. </li> <li>Use jQuery to build an interactive website</li><li>Use variables and operators to build an interactive website</li></ul>                                                                                                                        |
+| [**Skills Day 1: Time Management and LinkedIn**](units/skillsdays/skillsday1)               | <ul><li>Use a time management strategy to organize their time.</li><li>Develop and maintain a strong LinkedIn profile to highlight their experience and skills and build their network.</li></ul>                                                                                                                                                                                        |
+| [**2: Rock, Paper, Scissors**](units/unit2)                                                 | <ul><li>Use event handlers in JavaScript.</li> <li>Generate a random number using Math functions.</li><li>Write a compound conditional statement using && and                                                                                                                                                                                                                            |  | . </li></ul> |
+| [**Skills Day 2: Career Panel and Presentations w. Families**](units/skillsdays/skillsday2) | <ul><li>Use their resources to research and apply for career opportunities and scholarships.</li><li>Articulate a pathway to a career in technology</li><li>Communicate technical knowledge to a technical and non-technical audience</li></ul>                                                                                                                                                 |
+| [**3: Tic, Tac, Toe**](units/unit3)                                                         | <ul><li>Declare a function with a single parameter that returns a value</li><li>Use functions to break long sections of code into smaller, easier to understand pieces.</li><li>Apply global and local scope in order to solve a problem</li></ul>                                                                                                                                       |
+| [**Skills Day 3: Resume and Interviewing**](units/skillsdays/skillsday3)                    | <ul><li>Prepare for an interview.</li> <li>Create and maintain an up-to-date resume with components that highlight their experience and skills.</li></ul>                                                                                                                                                                                                                                |
+| [**4: Playlist**](units/unit4)                                                              | <ul><li>Create an array and retrieve an array element using the index.</li><li>Create for of loops in Javascript to iterate over an array</li><li>Utilize array methods</li><li>Create and access data from and object</li><li>Update an object</li></ul>                                                                                                                                |
+| [**5: Portfolio and HackerRank**](units/unit5)                                              | <ul><li>Demonstate their technical ability through a HackerRank assessment.</li> <li>Update their professional portfolios with projects that showcase their technical ability.</li></ul>                                                                                                                                                                                                 |
+| [**Skills Day 4: Networking and Whiteboarding**](units/skillsdays/skillsday4)               | <ul><li>Engage in networking with other professionals</li><li>Demonstrate independent problem solving skills and communicate computational thinking through whiteboarding activities</li></ul>                                                                                                                                                                                           |
+| [**6: Giphy Project**](units/unit6)                                                         | <ul><li>Make an API request and handle a JSON API response</li><li>Identify parts of an API request and be able to customize it</li><li>Update their project to create a better user expereince.</li> </ul>                                                                                                                                                                              |
+| [**Skills Day 5: Career Panel and Developing Relationships**](units/skillsdays/skillsday5)  | <ul><li>Articulate a pathway to a career in technology.</li><li>Develop, maintain and grow relationships beyond their Code Nation experience.</li></ul>                                                                                                                                                                                                                             |
+| [**7: Client Project**](units/unit7)                                                        | <ul><li>Engage in collaborative brainstorming to build consensus around a project idea.</li> <li>Create a project plan to accomplish specific tasks within a predetermined amount of time.</li><li>Engage in sustained coding and apply technical skills to develop and design a webapp for their client.</li><li>Complete their Client Project and prepare for presentations </li></ul> |
+| [**8: EOY Unit**](units/unit8)                                                              | <ul><li>Complete their professional portfolios with projects that showcase their technical ability.</li> <li>Demonstate their technical ability through a HackerRank assessment.</li><li>Deliver an engaing presentation</li> </ul>                                                                                                                                                      |
 
-----
+---
 
-**Curriculum content contributed by**: 
-Faran Jessani,
-Jazbel Wang,
-Marcos Lara-Reinhold,
-Neera Thavornvanit,
-Cal Peyser,
-Joe Tessler,
-Sayri Suarez
+<h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
+<h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+
+---
+
+**Special Shoutout to the Fellowship Volunteers that spent countless hours developing this curriculum.**:
+Faran Jessani
+Joe Tessler
+Andrew Vorwald
+Daniel Calise
+Edgar J. Muentes
+Stanislav Kutyepov
+Matthew B.Schupack
+Kevin Dou
+
 <br>
 <p> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
-----
-<br>
-  
-For more information about Code Nation, please visit us at <a href="https://www.codenation.org">codenation.org</a>.
+
 <br>
 <br>
-Our curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. 
+Our curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
