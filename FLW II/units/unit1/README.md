@@ -1,13 +1,14 @@
 # Unit 1
 
 ## Overview
-In this unit, coders will get to know their company, their instructors and their classmates. Coders will review important routines, procedures and documents. Coders will complete a beginning of year challenge to review Javascript from previous Code Nation programs.
+In this unit, coders will learn the program expectations, session structure, do some fun speed networking, and a fun JS review.
+
 
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|External Resources
 |:-------:|-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1jJmUjQ6Al4w7f7BLKSt3PZe0qFQmaRaFnNXH7xRN814/edit#slide=id.g363143c749_0_0)|<li>Describe Studio class routines and procedures</li><li>Review core Javascript skills</li>|N/A|
+|[**1**](https://docs.google.com/presentation/d/1XR6xct8fhiXyR5uGJXWmWHIypqIlWdXLX8vdiCKwjys/edit#slide=id.g93b3a9422d_0_6)|<li>Describe Studio class routines and procedures</li><li>Review core Javascript skills</li>|N/A|
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a>  </h3>
 
