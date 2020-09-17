@@ -1,4 +1,4 @@
-# Coding Fellowship I, 20-21
+# Coding Fellowship II, 20-21
 
 ## Scope and Sequence
 
