@@ -11,7 +11,7 @@ In this unit, coders will build a Jeopardy project using JavaScript. Students wi
 |[**3**](https://docs.google.com/presentation/d/1J8HhPNpM16KkBt3WiaxZ9Rl8kHlaLpb4ZEPms5zBwdM/edit#slide=id.g602e4c3515_0_200)|<ul><li>Use conditionals, arithmetic and loops to change what is displayed on the screen</li><li>Using "gist tool" to read/analyze code snippets</li></ul>|N/A|
 |[**4**](https://docs.google.com/presentation/d/16NBaJ9shtg_XSFgT8faRKAQKloKSDw7yDbyRxrwN-2o/edit#slide=id.g8aba7f171e_1_20)|<ul><li>Use functions to organize code</li><li>Read peers' code and provide constructive feedback</li></ul>|N/A| 
 |[**5**](https://docs.google.com/presentation/d/1AjsHAMMZfjlaH7YWghkrnTzYmASIiVf8EU5GTNLCAyk/edit#slide=id.g602e4c3515_0_200)|<ul><li>Use functions to organize code
-  </li><li>Using "gist tool" to review peers' code snippets</li></li></ul>|N/A| 
+  </li><li>Using "gist tool" to review peers' code snippets</li></ul>|N/A| 
 |[**6**](https://docs.google.com/presentation/d/12M4oVWS14w5PfOQEz76AWaATSwUnpNSMYCq_39D-qPI/edit)|<ul><li>Use functions to modify objects</li></ul>|N/A| 
 |[**7**](https://docs.google.com/presentation/d/1aYwrcFLH2A845UeUv_i7KFHnxoD9o9uGzymBtW856I8/edit#slide=id.g602e4c3515_0_200)|<ul><li>Use functions to modify objects</li><li>Explore the Chrome developer tools</li></ul>|N/A| 
 |[**8**](https://docs.google.com/presentation/d/1J9JtHsnAo59_v7pKVDCUW_39GAsP2aJe7jcJJPPbJsQ/edit#slide=id.g3d4bf58eac_0_10)|<ul><li>Prepare for a presentation in a remote setting</li></ul>|N/A| 
