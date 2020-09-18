@@ -6,9 +6,9 @@ Professional Skills days are a time for students to build their professional ski
 
 ## Sessions
 
-|                                                        Session Slides                                                         | _Professionals will be able to ..._                                                                                                                                         |
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**1**](https://docs.google.com/presentation/d/1uBDyXfywFAULP-nIu2RGA0m2rX5gKmY1uZIzSoVXekQ/edit#slide=id.g81fbe596eb_0_1354) | Use a time management strategy to organize their time.<br> Develop and maintain a strong LinkedIn profile to highlight their experience and skills and build their network. |
+|Remote Slides|                                                        Session Slides                                                         | _Professionals will be able to ..._                                                                                                                                         |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----|
+|[**1**]()| [**1**](https://docs.google.com/presentation/d/1uBDyXfywFAULP-nIu2RGA0m2rX5gKmY1uZIzSoVXekQ/edit#slide=id.g81fbe596eb_0_1354) | Use a time management strategy to organize their time.<br> Develop and maintain a strong LinkedIn profile to highlight their experience and skills and build their network. |
 
 ---
 
