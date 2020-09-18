@@ -1,15 +1,19 @@
-
-# Presentation Day
+# Skills Day 1: Portfolio Project (Individual)
 
 ## Overview
-In this lesson, coders will demonstrate their technical and professional skills progress,by presenting their most recent project. This is a great opportunity to invite other people from your company to see what students have been working on and help guide them through whiteboarding exercises.
 
-## Sessions 
-|Session Slides|*Coders will be able to ...*|External Resources
-|:-------:|:-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1KTlAu8XMnXGpMxoJtOlkd9qcem_3mOmxF2YeFSLLUFc/edit#slide=id.g418add0bf9_0_85)|<ul><li>Communicate their technical knowledge effectively to a technical audience.</li><li>Capture and maintain the audience's attention.</li></ul> |[N/A]|
+In this lesson, professionals will present thier projects and volunteers will lead a career panel.
 
-----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiZv1Y0U4Fr5k2iFVWRIVg2x7Su-r1hLoH0qb5RCMlNsxUjQ/viewform">Submit Your Feedback</a> </h3>
+## Sessions
 
-----
+|                                                Session Slides                                                 | _Professionals will be able to ..._                                                |
+| :-----------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------- |
+| [**1**]() | <ul><li>Articulate a pathway to a career in technology</li><li></li></ul>     |
+
+---
+
+## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
+
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+
+---
