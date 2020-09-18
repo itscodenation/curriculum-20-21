@@ -6,11 +6,11 @@ In this unit, coders will review HTML and CSS concepts from the Intro to Web Dev
 
 ## Sessions
 
-|                                                Session Slides                                                 | _Coders will be able to ..._                                                |
-| :-----------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------- |
-| [**1**](https://docs.google.com/presentation/d/1MlWxGC8oXk2bB8P6VN34FdiM-LuOTBHigH40Y36mWQE/edit?usp=sharing) | Describe the course routines and procedures and review HTML and CSS.        |
-| [**2**](https://docs.google.com/presentation/d/1yi4f712Gk2xMyQo1MLB08Uvv4VWFO8HFSA2-xWRVfVA/edit?usp=sharing) | Review HTML, CSS, and Layout Positioning concepts and navigate Glitch.      |
-| [**3**](https://docs.google.com/presentation/d/1DqgRqJRhZIWhqwx8Oy3A0ChoddAwpnsQYjzvuonF78A/edit?usp=sharing) | Learn to upload and link files and complete their online portfolio projects |
+|Remote Slides|                                                Session Slides                                                 | _Coders will be able to ..._                                                |
+| :-----------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------- |:------|
+|[**1**](https://docs.google.com/presentation/d/1GYWHmYQyCb9YchhF6Xb6wrM8TOSn1yShXlrvkrlQ5Zw/edit#slide=id.g609063c885_0_0)| [**1**](https://docs.google.com/presentation/d/1MlWxGC8oXk2bB8P6VN34FdiM-LuOTBHigH40Y36mWQE/edit?usp=sharing) | Describe the course routines and procedures and review HTML and CSS.        |
+|[**2**]()| [**2**](https://docs.google.com/presentation/d/1yi4f712Gk2xMyQo1MLB08Uvv4VWFO8HFSA2-xWRVfVA/edit?usp=sharing) | Review HTML, CSS, and Layout Positioning concepts and navigate Glitch.      |
+|[**3**]()| [**3**](https://docs.google.com/presentation/d/1DqgRqJRhZIWhqwx8Oy3A0ChoddAwpnsQYjzvuonF78A/edit?usp=sharing) | Learn to upload and link files and complete their online portfolio projects |
 
 ---
 
