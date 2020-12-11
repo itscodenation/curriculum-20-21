@@ -6,9 +6,9 @@ The first part of this professional skills day will focus on building and mainta
 
 ## Sessions
 
-|                                          Session Slides                                           | _Professionals will be able to ..._                                                                                              |
-| :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------- |
-| [**1**](https://docs.google.com/presentation/d/12grkOoQTpL4OkBmEt3T8WgnIUzHFVtXLUUrj6izzfUo/edit) | Articulate a pathway to a career in technology.<br>Develop, maintain and grow relationships beyond their Code Nation experience. |
+|Remote Slides|                                          Session Slides                                           | _Professionals will be able to ..._                                                                                              |
+|:-----:| :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/16v0rr-eJwFUQpWn7ZGjAxVx7ROl971S_xk6tzQXJUkU/edit?usp=sharing)| [**1**](https://docs.google.com/presentation/d/12grkOoQTpL4OkBmEt3T8WgnIUzHFVtXLUUrj6izzfUo/edit) | Articulate a pathway to a career in technology.<br>Develop, maintain and grow relationships beyond their Code Nation experience. |
 
 ---
 
