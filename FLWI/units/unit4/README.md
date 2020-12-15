@@ -1,4 +1,4 @@
-# Unit 4:Playlist (Individual)
+# Unit 4: Playlist (Individual)
 
 ## Overview
 In this unit, coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. To create this project, coders will create arrays to hold song information, use a forEach loop to iterate over the arrays, and display data to the screen. They will use .push to add new songs to their playlist. Then, students will refactor their project to using objects instead of arrays to hold their data.
