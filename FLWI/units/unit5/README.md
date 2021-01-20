@@ -6,9 +6,9 @@ In this unit, students will be able to demonstrate their technical ability by pa
 
 ## Sessions
 
-|                                                       Session Slides                                                       | _Coders will be able to ..._                                                                                                                                      |
-| :------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**1**](https://docs.google.com/presentation/d/1vKnlFiz1KZWIkJugooh1xcvDI7hpt3V0e4VMXtr4dX4/edit#slide=id.g36f3732b7b_0_1) | Demonstate their technical ability through a HackerRank assessment.<br> Update their professional portfolios with projects that showcase their technical ability. |
+|Remote Slides|                                                       Session Slides                                                       | _Coders will be able to ..._                                                                                                                                      |
+|:---:| :------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|[**1**](https://docs.google.com/presentation/d/1ZPsUJK0firtmJBaNh6uNHtm-2sHWKsbV0uz0TWKhOQc/edit#slide=id.g36f3732b7b_0_1)| [**1**](https://docs.google.com/presentation/d/1vKnlFiz1KZWIkJugooh1xcvDI7hpt3V0e4VMXtr4dX4/edit#slide=id.g36f3732b7b_0_1) | Demonstate their technical ability through a HackerRank assessment.<br> Update their professional portfolios with projects that showcase their technical ability. |
 
 ---
 
