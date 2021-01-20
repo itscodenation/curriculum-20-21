@@ -6,9 +6,9 @@ The first part of this professional skills day will focus on resumes and the nex
 
 ## Sessions
 
-|                                                       Session Slides                                                       | _Professionals will be able to ..._                                                                                                           |
-| :------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**1**](https://docs.google.com/presentation/d/1caq7ZivpL8F-ufvaD_R5O9v_AuenAxaPI57tJutOu3E/edit#slide=id.g8a202dd44c_0_0) | Effectively prepare for an interview.<br>Create and maintain an up-to-date resume with components that highlight their experience and skills. |
+|Remote Slides|                                                       Session Slides                                                       | _Professionals will be able to ..._                                                                                                           |
+|:----:| :------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+|[**1**](https://docs.google.com/presentation/d/1hiV9eH2IsFZOx5uGmy3Htk0_Mrt0ESNL59Numq1seFQ/edit#slide=id.g8a202dd44c_0_0)| [**1**](https://docs.google.com/presentation/d/1caq7ZivpL8F-ufvaD_R5O9v_AuenAxaPI57tJutOu3E/edit#slide=id.g8a202dd44c_0_0) | Effectively prepare for an interview.<br>Create and maintain an up-to-date resume with components that highlight their experience and skills. |
 
 ---
 
