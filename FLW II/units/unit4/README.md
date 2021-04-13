@@ -6,7 +6,7 @@ In this unit, coders will work in pairs to build a project using HTML, CSS, REAC
 ## Sessions 
 |Session Slides|*Coders will ...*|
 |:-------:|-------|
-|**[1](https://docs.google.com/presentation/d/1rIDYuIDoTo9ue871soTVqeXcAN2Wxv37hpj5HCJtI3U/edit?usp=sharing)**| <li>Engage in collaborative brainstorming to build consensus around a project idea.</li> <li>Create a project plan to accomplish specific tasks within a predetermined amount of time.</li>|
+|**[1](https://docs.google.com/presentation/d/1rIDYuIDoTo9ue871soTVqeXcAN2Wxv37hpj5HCJtI3U/edit?usp=sharing)**| <ul><li>Engage in collaborative brainstorming to build consensus around a project idea.</li> <li>Create a project plan to accomplish specific tasks within a predetermined amount of time.</li></ul>|
 |**[2](https://docs.google.com/presentation/d/1UT6MZ52aRGQREKPS_TCEfp04i5nsamn9XOlH-clojno/edit)**|<ul><li>Set up a React App. </li><li>Explore React boilerplate code. </li>|
 |**[3](https://docs.google.com/presentation/d/1M7THrA-F-nwb1dNToahr7uBd9UCBxmhAvf1IPUUUaTQ/edit)**|<ul><li>Design and implement a data model. </li></ul> |
 |**[4](https://docs.google.com/presentation/d/1piKoO1h4yKZ7HxoaOfc-UupRN25I3sfvQccSOjkuzUE/edit)**|<ul><li>Identify props. </li><li>Explain why props are used in React components. </li><li>Use multiple props in a React component. </li></ul> |
