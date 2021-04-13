@@ -6,9 +6,9 @@ In this unit, coders will work in pairs to build a project using HTML, CSS, REAC
 ## Sessions 
 |Session Slides|*Coders will ...*|
 |:-------:|-------|
-|**[1]()**| Engage in collaborative brainstorming to build consensus around a project idea. </br>Create a project plan to accomplish specific tasks within a predetermined amount of time.|
-|**[2]()**|<ul><li>Read data from a shared database</li><li>Differentiate local React state versus remote shared database state</li><li>Understand the concept of a shared session and roles for each user</li>|
-  |**[3]()**|<ul><li>Read data from a shared database</li><li>Differentiate local React state versus remote shared database state</li><li>Understand the concept of a shared session and roles for each user</li><li>Use breakpoints to step through code</li></ul> |
+|**[1](https://docs.google.com/presentation/d/1rIDYuIDoTo9ue871soTVqeXcAN2Wxv37hpj5HCJtI3U/edit?usp=sharing)**| Engage in collaborative brainstorming to build consensus around a project idea. </br>Create a project plan to accomplish specific tasks within a predetermined amount of time.|
+|**[2](https://docs.google.com/presentation/d/1rIDYuIDoTo9ue871soTVqeXcAN2Wxv37hpj5HCJtI3U/edit?usp=sharing)**|<ul><li>Read data from a shared database</li><li>Differentiate local React state versus remote shared database state</li><li>Understand the concept of a shared session and roles for each user</li>|
+  |**[3](https://docs.google.com/presentation/d/1M7THrA-F-nwb1dNToahr7uBd9UCBxmhAvf1IPUUUaTQ/edit?usp=sharing)**|<ul><li>Read data from a shared database</li><li>Differentiate local React state versus remote shared database state</li><li>Understand the concept of a shared session and roles for each user</li><li>Use breakpoints to step through code</li></ul> |
   |**[4]()**|<ul><li>Write data to a shared database</li><li>Handle data changes in the shared database</li></ul> |
   |**[5]()**|<ul><li>Write data to a shared database</li><li>Handle data changes in the shared database</li><li>Debug shared database changes using in-app data viewer</li></ul> |
   |**[6]()**|<ul><li>Use unidirectional data flow to pass down data and functions as React props</li><li>Recognize "controller" versus "view" components</li> |
