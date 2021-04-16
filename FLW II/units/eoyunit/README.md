@@ -6,10 +6,10 @@ In this unit, coders will close out the year by polishing off their portfolios, 
 
 ## Sessions
 
-|Remote Slides|                                                Session Slides                                                 | _Coders will be able to ..._                                                                                                                                       | External Resources |
+|                                                Session Slides                                                 | _Coders will be able to ..._                                                                                                                                       | External Resources |
 |:----:| :-----------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------: |
-|[**1**](https://docs.google.com/presentation/d/1DEnRxVHeEMTGoHiXd5MNxMQg6Ggngxc89oo4c7QCR_I/edit#slide=id.g47a50fe529_3_0)| [**1**](https://docs.google.com/presentation/d/1O6bWei-ESE-p9ebVsw_WuFRlqd2nKGdnPnj1aBKygTQ/edit?usp=sharing) | Complete their professional portfolios with projects that showcase their technical ability.<br>Demonstate their technical ability through a HackerRank assessment. |
-|[**2**](https://docs.google.com/presentation/d/1u-3bfD4QY4ub1zCCCPlm__tOjWPMAP46SeL27rfRFTA/edit#slide=id.ga4be790da0_0_990)|            [**2**](https://docs.google.com/presentation/d/1H-14HB-sXYu_SWml-Yt1_bPpFDBuodbVnvc3tG4AU7M/edit?usp=sharing)             | Deliver an engaging presentation.                                                                                                                                  
+|[**1**](https://docs.google.com/presentation/d/1-ybnxzyZVJrVbBGipfeWKdC1vfQHVXX7fwdtUX85lr0/edit#slide=id.g36f3732b7b_0_1)| Complete their professional portfolios with projects that showcase their technical ability.<br>Demonstate their technical ability through a HackerRank assessment. |
+[**2**](https://docs.google.com/presentation/d/1H-14HB-sXYu_SWml-Yt1_bPpFDBuodbVnvc3tG4AU7M/edit?usp=sharing)             | Deliver an engaging presentation.                                                                                                                                  
 ---
 
 ## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
