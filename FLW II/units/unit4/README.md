@@ -13,7 +13,7 @@ In this unit, coders will work in pairs to build a project using HTML, CSS, REAC
 |**[5](https://docs.google.com/presentation/d/1upQDe0hZx_27eNYpIeOJovDBhS4LIQR2IdM7oOQ9iEY/edit)**|<ul><li>Identify state in a given component. </li></ul> |
 |**[6](https://docs.google.com/presentation/d/1TudLe_9zOVJpnE0NMTH21QxYgDZhb8tl_bKWZe2Jlv4/edit)**|<ul><li>Register an event handler. </li> |
 |**[7](https://docs.google.com/presentation/d/1dVxyM4E4aDsIei2hL-oEmkP8fXPWD2Igmcc_X31_6SI/edit)**|<ul><li>Use conditionals to draw components and interact with CSS. </li><li>Use loops to generate multiple components on the website. </li> <li>Use unidirectional data flow to pass down data and functions as React props.</li> |
-|**[8]()**|Prepare for and practice a project presentation|
+  |**[8]()**|<ul><li>Prepare for and practice a project presentation</li></ul>|
 
 ----
 
