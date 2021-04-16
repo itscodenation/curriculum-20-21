@@ -8,7 +8,7 @@ In this unit, coders will close out the year by polishing off their portfolios, 
 
 |                                                Session Slides                                                 | _Coders will be able to ..._                                                                                                                                       | External Resources |
 | :-----------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------: |
-|[**1**](https://docs.google.com/presentation/d/1-ybnxzyZVJrVbBGipfeWKdC1vfQHVXX7fwdtUX85lr0/edit#slide=id.g36f3732b7b_0_1)| Complete their professional portfolios with projects that showcase their technical ability.<br>Demonstate their technical ability through a HackerRank assessment. |
+|[**1**](https://docs.google.com/presentation/d/1-ybnxzyZVJrVbBGipfeWKdC1vfQHVXX7fwdtUX85lr0/edit#slide=id.g36f3732b7b_0_1)| <ul><li>Complete their professional portfolios with projects that showcase their technical ability.</li><li>Demonstate their technical ability through a HackerRank assessment.</li> |
 [**2**](https://docs.google.com/presentation/d/1H-14HB-sXYu_SWml-Yt1_bPpFDBuodbVnvc3tG4AU7M/edit?usp=sharing)             | Deliver an engaging presentation. |                                                                                                                                 
 ---
 
